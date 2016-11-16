@@ -1,3 +1,1 @@
-var fortnights = JSON.parse('
-  {"fortnights":[{"hi":"hi1"},{"hi":"hi2"}]}
-');
+var fortnights = JSON.parse('{"fortnights":[{"hi":"hi1"},{"hi":"hi2"}]}');
