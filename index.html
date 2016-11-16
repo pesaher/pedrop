@@ -22,8 +22,10 @@
     </p>
     <div class="picker">
       <select multiple="multiple" class="image-picker show-html">
-        <script> for(i = 0; i < fortnights.fortnights.length; i++)
-          document.write("<option data-img-src='" + fortnights.fortnights[i].Boss + ".png' value='1'>" + fortnights.fortnights[i].Boss + "</option>");
+        <script>
+          for(i = 0; i < fortnights.fortnights.length; i++)
+            document.write("<option data-img-src='" + fortnights.fortnights[i].Boss + ".png' value='1'>" + fortnights.fortnights[i].Boss + "</option>");
+          document.write("El número de elementos era: " + fortnights.fortnights.length);
         </script>
         <option data-img-src='http://placekitten.com/180/200' value='2'>Cute Kitten 2</option>
         <option data-img-src='http://placekitten.com/130/200' value='3'>Cute Kitten 3</option>
