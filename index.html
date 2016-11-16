@@ -22,11 +22,21 @@
     </p>
     <div class="picker">
       <select multiple="multiple" class="image-picker show-html">
-        <script>
-          for(i = 0; i < fortnights.fortnights.length; i++)
-            document.write("<option data-img-src='images/" + fortnights.fortnights[i].boss.replace(/\s+/g, '') + ".png' value='" + i + "'>" + fortnights.fortnights[i].name + "</option>");
-          document.write("El número de elementos era: " + fortnights.fortnights.length);
-        </script>
+        <optgroup label="This week">
+          <script>
+            var i;
+            for(i = 0; i < fortnights.fortnights.length; i++)
+              document.write("<option data-img-src='images/" + fortnights.fortnights[i].boss.replace(/\s+/g, '') + ".png' value='" + i + "'>" + fortnights.fortnights[i].name + "</option>");
+            document.write("El número de elementos era: " + fortnights.fortnights.length);
+          </script>
+        </optgroup>
+        <optgroup label="Leaving">
+          <script>
+            for(i; i < fortnights.fortnights.length; i++)
+              document.write("<option data-img-src='images/" + fortnights.fortnights[i].boss.replace(/\s+/g, '') + ".png' value='" + i + "'>" + fortnights.fortnights[i].name + "</option>");
+            document.write("El número de elementos era: " + fortnights.fortnights.length);
+          </script>
+        </optgroup>
       </select>
     </div>
 
