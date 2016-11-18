@@ -554,5 +554,29 @@
 				{"drop": ""},
 				{"drop": "Cola"}
 			]
+		},
+		{"name": "Welcome to the GRAN TESORO!",
+			"boss": "GRAN TESORO",
+			"reddit": "[GRAN TESORO](/int)",
+			"form": "https://docs.google.com/forms/d/e/1FAIpQLScQBY7U4RkGEZ2V3AfOa-Fk9dWwEhdYdtM6TeAEb5p3_18oaA/viewform",
+			"sheet": "https://docs.google.com/spreadsheets/d/1Aww9KGKjgKHZf2YqW1LyEfhPEvizoSS4_BBxHZKh5CM/edit#gid=1258306033",
+			"template":[
+				{"drop": "Baccarat"},
+				{"drop": "Dice"},
+				{"drop": "Mr. Tanaka"},
+				{"drop": "Monkey D. Luffy - A Vow in the Great Age of Pirates - Pirate King manual"},
+				{"drop": "Diamante - Donquixote Pirates manual"},
+				{"drop": "Machvise - Donquixote Pirates manual"},
+				{"drop": "Gladius - Donquixote Pirates manual"},
+				{"drop": "Emporio Ivankov - Revolutionary Army manual"},
+				{"drop": "Mr. Tanaka - Gran Tesoro Security manual"},
+				{"drop": "Chaka - The guardian jackal of Alabasta. manual"},
+				{"drop": "Demolisher Spearman manual"},
+				{"drop": "Watchdog Unit of the Law manual"},
+				{"drop": "Black Treasure Turtle"},
+				{"drop": "Black Teen Turtle"},
+				{"drop": "Black Jeweled Porc"},
+				{"drop": "Cola"}
+			]
 		}
 ]}
