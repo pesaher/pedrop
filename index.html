@@ -31,7 +31,7 @@
 		<optgroup label="Leaving">
 		  <script>
 		    for(j = i; j < i + fortnights.fortnights.length; j++)
-		      document.write("<option data-img-src='images/" + fortnights.fortnights[j - i].boss.replace(/\s+/g, '') + ".png' value='" + j + "' ng-model=\"myVar" + j + "\">" + fortnights.fortnights[j - i].name + "</option>");
+		      document.write("<option data-img-src='images/" + fortnights.fortnights[j - i].boss.replace("'", '').replace(/\s+/g, '') + ".png' value='" + j + "' ng-model=\"myVar" + j + "\">" + fortnights.fortnights[j - i].name + "</option>");
 		    document.write("El número de elementos era: " + fortnights.fortnights.length);
 		  </script>
 		</optgroup>
