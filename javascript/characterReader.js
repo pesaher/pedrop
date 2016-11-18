@@ -1,4 +1,5 @@
 var request = new XMLHttpRequest();
+var fortnights;
 request.open("GET", "fortnights.json", false);
 request.send(null);
 request.onreadystatechange = function() {
