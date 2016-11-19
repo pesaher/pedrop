@@ -272,6 +272,6 @@ footer {
 }
 
 .button {
-  position: absolute;
+  position: relative;
   top: 50%;
 }
