@@ -11,7 +11,7 @@
 
 </head>
 <body>
-  <form>
+  <form action="results.html" method="get">
   <div ng-controller="">
     <div id="container">
 
@@ -25,14 +25,12 @@
 		    var i;
 		    for(i = 0; i < fortnights.fortnights.length; i++)
 		      document.write("<option data-img-src='images/" + fortnights.fortnights[i].boss.replace("'", '').replace(/\s+/g, '') + ".png' value='" + i + "' ng-model=\"myVar" + i + "\">" + fortnights.fortnights[i].name + "</option>");
-		    document.write("El número de elementos era: " + fortnights.fortnights.length);
 		  </script>
 		</optgroup>
 		<optgroup label="Leaving">
 		  <script>
 		    for(j = i; j < i + fortnights.fortnights.length; j++)
 		      document.write("<option data-img-src='images/" + fortnights.fortnights[j - i].boss.replace("'", '').replace(/\s+/g, '') + ".png' value='" + j + "' ng-model=\"myVar" + j + "\">" + fortnights.fortnights[j - i].name + "</option>");
-		    document.write("El número de elementos era: " + fortnights.fortnights.length);
 		  </script>
 		</optgroup>
 	      </select>
@@ -125,6 +123,7 @@ Also, you can check all the data gathering threads, forms and results [here](htt
 
 Thank you all for your work, and enjoy this week of farming!</pre>
 	  </div>
+	  <input type="submit" value="Submit">
   </form>
 </body>
 </html>
