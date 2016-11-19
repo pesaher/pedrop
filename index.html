@@ -1,60 +1,51 @@
 <!doctype html>
 <html lang="en">
-<head>
-  <meta charset="utf-8">
-  <title>Drop data gathering form creator</title>
-  <link rel="stylesheet" type="text/css" href="image-picker/image-picker.css">
-  <script src="https://code.jquery.com/jquery-3.0.0.min.js" type="text/javascript"></script>
-  <script src="image-picker/image-picker.js" type="text/javascript"></script>
-  <script src="javascript/characterReader.js" type="text/javascript"></script>
-  <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.8/angular.min.js"></script>
-
-</head>
-<body>
-  <form action="results.html" method="get">
-  <div ng-controller="">
-    <div id="container">
-
-
-    <h1>Drop data gathering form maker</h1>
-	    <div class="picker">
-	      <select multiple="multiple" class="image-picker show-html" name="this">
-		<optgroup label="This week">
-		  <script>
-		    var i;
-		    for(i = 0; i < fortnights.fortnights.length; i++)
-		      document.write("<option data-img-src='images/" + fortnights.fortnights[i].boss.replace("'", '').replace(/\s+/g, '') + ".png' value='" + i + "' ng-model=\"myVar" + i + "\">" + fortnights.fortnights[i].name + "</option>");
-		  </script>
-		</optgroup>
-		<optgroup label="Leaving">
-		  <script>
-		    for(j = i; j < i + fortnights.fortnights.length; j++)
-		      document.write("<option data-img-src='images/" + fortnights.fortnights[j - i].boss.replace("'", '').replace(/\s+/g, '') + ".png' value='" + j + "' ng-model=\"myVar" + j + "\">" + fortnights.fortnights[j - i].name + "</option>");
-		  </script>
-		</optgroup>
-	      </select>
-	    </div>
-    </div>
-
-  <script type="text/javascript">
-
-    jQuery("select.image-picker").imagepicker({
-      hide_select:  false,
-    });
-
-    jQuery("select.image-picker.show-labels").imagepicker({
-      hide_select:  false,
-      show_label:   true,
-    });
-
-    jQuery("select.image-picker.limit_callback").imagepicker({
-      limit_reached:  function(){alert('We are full!')},
-      hide_select:    false
-    });
-
-  </script>
-
-  <pre>Hello everyone! Like every week, [we](http://i.imgur.com/2PleUXL.png) are gathering drop data for the current fornights: . Also we would like to kindly remind to the users who have been saving their runs of  to please upload them so we have more data the next time these fortnights come. We would like to get as many different samples as possible, to get data as much accurate as possible. Remember to not only submit your best runs, but all of them.
+	<head>
+		<meta charset="utf-8">
+		<title>Drop data gathering form creator</title>
+		<link rel="stylesheet" type="text/css" href="image-picker/image-picker.css">
+		<script src="https://code.jquery.com/jquery-3.0.0.min.js" type="text/javascript"></script>
+		<script src="image-picker/image-picker.js" type="text/javascript"></script>
+		<script src="javascript/characterReader.js" type="text/javascript"></script>
+		<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.8/angular.min.js"></script>
+	</head>
+	<body>
+		<form action="results.html" method="get">
+			<div ng-controller="">
+				<div id="container">
+					<h1>Drop data gathering form maker</h1>
+					<div class="picker">
+						<select multiple="multiple" class="image-picker show-html" name="this">
+							<optgroup label="This week">
+								<script>
+									var i;
+									for(i = 0; i < fortnights.fortnights.length; i++)
+										document.write("<option data-img-src='images/" + fortnights.fortnights[i].boss.replace("'", '').replace(/\s+/g, '') + ".png' value='" + i + "' ng-model=\"myVar" + i + "\">" + fortnights.fortnights[i].name + "</option>");
+								</script>
+							</optgroup>
+							<optgroup label="Leaving">
+								<script>
+									for(j = i; j < i + fortnights.fortnights.length; j++)
+										document.write("<option data-img-src='images/" + fortnights.fortnights[j - i].boss.replace("'", '').replace(/\s+/g, '') + ".png' value='" + j + "' ng-model=\"myVar" + j + "\">" + fortnights.fortnights[j - i].name + "</option>");
+								</script>
+							</optgroup>
+						</select>
+					</div>
+				</div>
+				<script type="text/javascript">
+					jQuery("select.image-picker").imagepicker({
+						hide_select: false,
+					});
+					jQuery("select.image-picker.show-labels").imagepicker({
+						hide_select: false,
+						show_label: true,
+					});
+					jQuery("select.image-picker.limit_callback").imagepicker({
+						limit_reached: function(){alert('We are full!')},
+						hide_select: false
+					});
+				</script>
+				<pre>Hello everyone! Like every week, [we](http://i.imgur.com/2PleUXL.png) are gathering drop data for the current fornights: . Also we would like to kindly remind to the users who have been saving their runs of  to please upload them so we have more data the next time these fortnights come. We would like to get as many different samples as possible, to get data as much accurate as possible. Remember to not only submit your best runs, but all of them.
 
 The Coliseum data collecting will be divided between previous battles (stages 1-4 for Chaos, for example) and boss battle (stage 5 for Chaos, for example). The boss battle will have chaos only version (e.g: [Urouge](/str)) and non-chaos bosses (e.g: [Rebecca](/qck) and [Lucky Roux](/psy)). Additionally it will be divided in Exhibition, Underground and Chaos difficulty.
 
@@ -121,8 +112,8 @@ Also, you can check all the data gathering threads, forms and results [here](htt
 ***
 
 Thank you all for your work, and enjoy this week of farming!</pre>
-	  </div>
-	  <input type="submit" value="Submit">
-  </form>
-</body>
+			</div>
+			<input type="submit" value="Submit" style="background:url('images/Arlong.png')">
+		</form>
+	</body>
 </html>
