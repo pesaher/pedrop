@@ -40,3 +40,7 @@ ul.thumbnails.image_picker_selector li .thumbnail.selected {
 .image-picker{
   display: none;
 }
+.group-title{
+  font-size: 40px;
+  font-style: bold;
+}
