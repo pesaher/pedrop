@@ -67,15 +67,15 @@ You have three ways to submit your results, please use whichever feels best for 
 				for(var i = 0; i < thisWeek; i++){
 					document.write("\n	### " + fortnights.fortnights[Url.get.selected[i]].reddit + "\n\n");
 					document.write("	    - **Difficulty:** \n	    - **Number of runs:** \n");
-					for(var j = 0; j < fortnights.fortnights[Url.get.selected[i]].drops.length; j++)
-						document.write("	    - **" + fortnights.fortnights[Url.get.selected[i]].drops[j] + ":** \n");
+					for(var j = 0; j < fortnights.fortnights[Url.get.selected[i]].template.length; j++)
+						document.write("	    - **" + fortnights.fortnights[Url.get.selected[i]].template[j].drop + ":** \n");
 					document.write("\n	***\n");
 				}
 				for(var i = thisWeek; i < thisWeek + pastWeek; i++){
 					document.write("\n	### " + fortnights.fortnights[Url.get.selected[i] - fortnights.fortnights.length].reddit + "\n\n");
 					document.write("	    - **Difficulty:** \n	    - **Number of runs:** \n");
-					for(var j = 0; j < fortnights.fortnights[Url.get.selected[i] - fortnights.fortnights.length].drops.length; j++)
-						document.write("	    - **" + fortnights.fortnights[Url.get.selected[i] - fortnights.fortnights.length].drops[j] + ":** \n");
+					for(var j = 0; j < fortnights.fortnights[Url.get.selected[i] - fortnights.fortnights.length].template.length; j++)
+						document.write("	    - **" + fortnights.fortnights[Url.get.selected[i] - fortnights.fortnights.length].template[j].drop + ":** \n");
 					document.write("\n	***\n");
 				}
 			</script>
