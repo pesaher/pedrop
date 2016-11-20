@@ -58,7 +58,15 @@
 			"form": "https://docs.google.com/forms/d/e/1FAIpQLSewlWk_CXKMpVZxWVXpOhQgXvHB4heEBcbE8u-6gJbWv040vA/viewform",
 			"sheet": "https://docs.google.com/spreadsheets/d/18z7UFIGCw-Otj0vIX2zWaOX1Nv2LIrEVP852pvPQHf8/edit#gid=1771725376",
 			"template":[
-				{"drop": ""},
+				{"drop": "Arlong"},
+				{"drop": "Kuroobi"},
+				{"drop": "Choo"},
+				{"drop": "Hatchi"},
+				{"drop": "Arlong manual"},
+				{"drop": "Nami manual"},
+				{"drop": "Red Treasure Turtle"},
+				{"drop": "Red Teen Turtle"},
+				{"drop": "Red Jeweled Porc"},
 				{"drop": "Cola"}
 			]
 		},
@@ -136,7 +144,18 @@
 			"form": "https://docs.google.com/forms/d/e/1FAIpQLSdL7VJNPmYk6_HTPf6YqCRbRjtI0dwe5VFG-9p0f9Tma8JaLQ/viewform",
 			"sheet": "https://docs.google.com/spreadsheets/d/18z7UFIGCw-Otj0vIX2zWaOX1Nv2LIrEVP852pvPQHf8/edit#gid=429379605",
 			"template":[
-				{"drop": ""},
+				{"drop": "Training Coby"},
+				{"drop": "Training Helmeppo"},
+				{"drop": "Petty Officer Coby manual"},
+				{"drop": "Sergeant Helmeppo manual"},
+				{"drop": "Nico Robin manual"},
+				{"drop": "Mr. Prince manual"},
+				{"drop": "Six-Sword Hatchi manual"},
+				{"drop": "Fire Pearl manual"},
+				{"drop": "Cabin Boy Coby manual"},
+				{"drop": "Yellow Treasure Turtle"},
+				{"drop": "Yellow Teen Turtle"},
+				{"drop": "Yellow Jeweled Porc"},
 				{"drop": "Cola"}
 			]
 		},
@@ -146,7 +165,21 @@
 			"form": "https://docs.google.com/forms/d/e/1FAIpQLSe5N8s5utP9x3kSPtAOIShkox_1Xbj7vahQm24m7dUoYle1cA/viewform",
 			"sheet": "https://docs.google.com/spreadsheets/d/18z7UFIGCw-Otj0vIX2zWaOX1Nv2LIrEVP852pvPQHf8/edit#gid=2100161054",
 			"template":[
-				{"drop": ""},
+				{"drop": "Count Butler"},
+				{"drop": "President Heaby"},
+				{"drop": "General Hotdog"},
+				{"drop": "Tony Tony Chopper - Animal King"},
+				{"drop": "Shanks - Black Clad Emperor manual"},
+				{"drop": "Vergo - Donquixote Pirates manual"},
+				{"drop": "Lao G - Donquixote Pirates manual"},
+				{"drop": "Koala manual"},
+				{"drop": "Tony Tony Chopper - Animal King manual"},
+				{"drop": "Franky - Straw Hat Pirates manual"},
+				{"drop": "Hamburg manual"},
+				{"drop": "Cerberus manual"},
+				{"drop": "Black Treasure Turtle"},
+				{"drop": "Black Teen Turtle"},
+				{"drop": "Black Jeweled Porc"},
 				{"drop": "Cola"}
 			]
 		},
@@ -519,7 +552,21 @@
 			"form": "https://docs.google.com/forms/d/e/1FAIpQLSfgN04CGs8W0-Rm1-mSPiwb_3heK1seh6VvrH3djjiprk8ZDQ/viewform",
 			"sheet": "https://docs.google.com/spreadsheets/d/18z7UFIGCw-Otj0vIX2zWaOX1Nv2LIrEVP852pvPQHf8/edit#gid=1743410916",
 			"template":[
-				{"drop": ""},
+				{"drop": "Gasparde"},
+				{"drop": "Needless"},
+				{"drop": "Shuraiya Bascud"},
+				{"drop": "Portgas D. Ace Black Clad Division Commander manual"},
+				{"drop": "Roronoa Zoro Master Swordsman Disciple manual"},
+				{"drop": "Brook Bone to Be Wild manual"},
+				{"drop": "Ice Witch Whitey Bay manual"},
+				{"drop": "Shuraiya Bascud manual"},
+				{"drop": "Perona Giant Ghost Princess manual"},
+				{"drop": "Crocus Twin Cape Lighthouse Keeper manual"},
+				{"drop": "Franky Franky Family manual"},
+				{"drop": "Horo Horo Ghost manual"},
+				{"drop": "Red Treasure Turtle"},
+				{"drop": "Red Teen Turtle"},
+				{"drop": "Red Jeweled Porc"},
 				{"drop": "Cola"}
 			]
 		},
@@ -552,7 +599,20 @@
 			"form": "https://docs.google.com/forms/d/e/1FAIpQLSe4fEYNlzm47Xlo6Tp58C0hAbT04VD4GT_7XfXF7URTj_mPpw/viewform",
 			"sheet": "https://docs.google.com/spreadsheets/d/18z7UFIGCw-Otj0vIX2zWaOX1Nv2LIrEVP852pvPQHf8/edit#gid=306499290",
 			"template":[
-				{"drop": ""},
+				{"drop": "Ganfor"},
+				{"drop": "Pierre"},
+				{"drop": "Conis"},
+				{"drop": "Maelstrom Spider Squard manual"},
+				{"drop": "Kami Eneru manual"},
+				{"drop": "Jewelry Bonney manual"},
+				{"drop": "Ohm manual"},
+				{"drop": "Conis manual"},
+				{"drop": "Mr. 3 manual"},
+				{"drop": "Miss Doublefinger manual"},
+				{"drop": "Miss Valentine manual"},
+				{"drop": "Blue Treasure Turtle"},
+				{"drop": "Blue Teen Turtle"},
+				{"drop": "Blue Jeweled Porc"},
 				{"drop": "Cola"}
 			]
 		},
@@ -572,8 +632,13 @@
 			"form": "https://docs.google.com/forms/d/e/1FAIpQLSd9F7S3fFEjr2Db_NfIRbcC-XbauXdM-KlIboXLzAc-TyA9og/viewform",
 			"sheet": "https://docs.google.com/spreadsheets/d/18z7UFIGCw-Otj0vIX2zWaOX1Nv2LIrEVP852pvPQHf8/edit#gid=1345036797",
 			"template":[
-				{"drop": ""},
-				{"drop": "Cola"}
+				{"drop": "Ice Cream-Loving Nami"},
+				{"drop": "Summer Luffy"},
+				{"drop": "Green Treasure Turtle"},
+				{"drop": "Green Teen Turtle"},
+				{"drop": "Green Jeweled Porc"},
+				{"drop": "Cola"},
+				{"drop": "Cotton Candy"}
 			]
 		},
 		{"name": "Summer Paradise Swimsuit Perona",
@@ -582,8 +647,22 @@
 			"form": "https://docs.google.com/forms/d/e/1FAIpQLSfaA3CE9d_MlGPnRFSsOWKDlWCTraCmNypouZr8ndasoV93uQ/viewform",
 			"sheet": "https://docs.google.com/spreadsheets/d/18z7UFIGCw-Otj0vIX2zWaOX1Nv2LIrEVP852pvPQHf8/edit#gid=487851290",
 			"template":[
-				{"drop": ""},
-				{"drop": "Cola"}
+				{"drop": "Ice Cream-Loving Perona"},
+				{"drop": "Summer Luffy"},
+				{"drop": "Kumacy"},
+				{"drop": "Dog Penguin"},
+				{"drop": "Kung Fu Dugong"},
+				{"drop": "Master of the Near Sea"},
+				{"drop": "Momoo"},
+				{"drop": "Neptunian Squid"},
+				{"drop": "Banana Gator"},
+				{"drop": "Sandora Dragon"},
+				{"drop": "Minorhinoceros"},
+				{"drop": "Black Treasure Turtle"},
+				{"drop": "Black Teen Turtle"},
+				{"drop": "Black Jeweled Porc"},
+				{"drop": "Cola"},
+				{"drop": "Cotton Candy"}
 			]
 		},
 		{"name": "Summer Paradise Swimsuit Robin",
@@ -592,8 +671,13 @@
 			"form": "https://docs.google.com/forms/d/e/1FAIpQLSeNabEWQPyOPOtCWAhCFLJ9gtRxzvYG6GQVVIUhf-M4eKu-Ew/viewform",
 			"sheet": "https://docs.google.com/spreadsheets/d/18z7UFIGCw-Otj0vIX2zWaOX1Nv2LIrEVP852pvPQHf8/edit#gid=502805309",
 			"template":[
-				{"drop": ""},
-				{"drop": "Cola"}
+				{"drop": "Ice Cream-Loving Robin"},
+				{"drop": "Summer Luffy"},
+				{"drop": "Yellow Treasure Turtle"},
+				{"drop": "Yellow Teen Turtle"},
+				{"drop": "Yellow Jeweled Porc"},
+				{"drop": "Cola"},
+				{"drop": "Cotton Candy"}
 			]
 		},
 		{"name": "The Legendary Shipbuilding Company Tom's Workers",
@@ -602,7 +686,20 @@
 			"form": "https://docs.google.com/forms/d/e/1FAIpQLSfQwAP5OoJzOAuu6g7wCaUIPlaPIVcLytZd2WRdkWra7qb3XQ/viewform",
 			"sheet": "https://docs.google.com/spreadsheets/d/18z7UFIGCw-Otj0vIX2zWaOX1Nv2LIrEVP852pvPQHf8/edit#gid=481323844",
 			"template":[
-				{"drop": ""},
+				{"drop": "Tom Tom's Workers"},
+				{"drop": "Iceburg Tom's Workers"},
+				{"drop": "Cutty Flam Tom's Workers"},
+				{"drop": "Monkey D. Luffy In the Wake of an Endless Dream - Straw Hat Pirates manual"},
+				{"drop": "Kaku manual"},
+				{"drop": "Fossa manual"},
+				{"drop": "Chaka manual"},
+				{"drop": "Cutty Flam Tom's Workers manual"},
+				{"drop": "Demolisher Axeman manual"},
+				{"drop": "Demolisher Spearman manual"},
+				{"drop": "Demolisher Gunner manual"},
+				{"drop": "Green Treasure Turtle"},
+				{"drop": "Green Teen Turtle"},
+				{"drop": "Green Jeweled Porc"},
 				{"drop": "Cola"}
 			]
 		},
@@ -656,7 +753,24 @@
 			"form": "https://docs.google.com/forms/d/e/1FAIpQLScDbo37wzhVO_PVLbRojBIg08ObtIw2yWYiUueWsIULX7bs0g/viewform",
 			"sheet": "https://docs.google.com/spreadsheets/d/18z7UFIGCw-Otj0vIX2zWaOX1Nv2LIrEVP852pvPQHf8/edit#gid=1731648354",
 			"template":[
-				{"drop": ""},
+				{"drop": "Wapol of Tin"},
+				{"drop": "Robson"},
+				{"drop": "Chopper's Snow Day"},
+				{"drop": "Dalton"},
+				{"drop": "Dr. Kureha"},
+				{"drop": "Chess"},
+				{"drop": "Kuromarimo"},
+				{"drop": "Marco the Phoenix Whitebeard 1st Div. Commander manual"},
+				{"drop": "Jabra manual"},
+				{"drop": "Curiel manual"},
+				{"drop": "Chopper's Snow Day manual"},
+				{"drop": "Wapol manual"},
+				{"drop": "Zambai manual"},
+				{"drop": "Satori manual"},
+				{"drop": "Tony Tony Chopper Heavy Point manual"},
+				{"drop": "Blue Treasure Turtle"},
+				{"drop": "Blue Teen Turtle"},
+				{"drop": "Blue Jeweled Porc"},
 				{"drop": "Cola"}
 			]
 		},
@@ -666,7 +780,23 @@
 			"form": "https://docs.google.com/forms/d/e/1FAIpQLScCn0pQDJ6JGKTRGsRW_Go_fBAVD70VPxYUOf2S9tB_ijY9iQ/viewform",
 			"sheet": "https://docs.google.com/spreadsheets/d/18z7UFIGCw-Otj0vIX2zWaOX1Nv2LIrEVP852pvPQHf8/edit#gid=286518955",
 			"template":[
-				{"drop": ""},
+				{"drop": "Raki"},
+				{"drop": "Genbou"},
+				{"drop": "Kamakiri"},
+				{"drop": "Aisa"},
+				{"drop": "Bartholomew Kuma manual"},
+				{"drop": "Wyper manual"},
+				{"drop": "Braham manual"},
+				{"drop": "Aisa manual"},
+				{"drop": "Urouge manual"},
+				{"drop": "Dorry manual"},
+				{"drop": "Lapin manual"},
+				{"drop": "Giant Imperial Fighter manual"},
+				{"drop": "Red Teen Turtle"},
+				{"drop": "Blue Teen Turtle"},
+				{"drop": "Black Treasure Turtle"},
+				{"drop": "Black Teen Turtle"},
+				{"drop": "Black Jeweled Porc"},
 				{"drop": "Cola"}
 			]
 		},
