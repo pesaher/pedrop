@@ -69,14 +69,14 @@ You have three ways to submit your results, please use whichever feels best for 
 					document.write("\n	### " + fortnights.fortnights[Url.get.selected[i]].reddit + "\n\n");
 					document.write("	    - **Difficulty:** \n	    - **Number of runs:** \n");
 					for(var j = 0; j < fortnights.fortnights[Url.get.selected[i]].drops.length; j++)
-						document.write("	    - **" + fortnights.fortnights[Url.get.selected[i]].drops[j] + ":** \n);
+						document.write("	    - **" + fortnights.fortnights[Url.get.selected[i]].drops[j] + ":** \n");
 					document.write("\n	***\n");
 				}
 				for(var i = thisWeek; i < thisWeek + pastWeek; i++){
 					document.write("\n	### " + fortnights.fortnights[Url.get.selected[i] - fortnights.fortnights.length].reddit + "\n\n");
 					document.write("	    - **Difficulty:** \n	    - **Number of runs:** \n");
 					for(var j = 0; j < fortnights.fortnights[Url.get.selected[i] - fortnights.fortnights.length].drops.length; j++)
-						document.write("	    - **" + fortnights.fortnights[Url.get.selected[i] - fortnights.fortnights.length].drops[j] + ":** \n);
+						document.write("	    - **" + fortnights.fortnights[Url.get.selected[i] - fortnights.fortnights.length].drops[j] + ":** \n");
 					document.write("\n	***\n");
 				}
 			</script>
