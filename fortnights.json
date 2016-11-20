@@ -374,15 +374,6 @@
 				{"drop": "Cola"}
 			]
 		},
-		{"name": "Emperor Frieza Attacks!",
-			"boss": "Frieza",
-			"reddit": "[Frieza](/int)",
-			"form": "https://docs.google.com/forms/d/e/1FAIpQLSdyB0bot4gHt-0sqZmnxIs-aI3FsCVDamUnhN9TIMmtz_jW4A/viewform",
-			"sheet": "https://docs.google.com/spreadsheets/d/18z7UFIGCw-Otj0vIX2zWaOX1Nv2LIrEVP852pvPQHf8/edit#gid=417952986",
-			"template":[
-				{"message": "Unfortunately, we will not provide a Frieza template for the comments, as it would be 90 lines long. Instead, just post the number of runs and the drops that you've gotten in a beautiful format, if possible."}
-			]
-		},
 		{"name": "Escaped! Morgan",
 			"boss": "Morgan",
 			"reddit": "[Morgan](/str)",
