@@ -70,6 +70,18 @@ You have three ways to submit your results, please use whichever feels best for 
 
 	***
 
+<script>
+				for(var i = 0; i < thisWeek; i++){
+					document.write("\n	### " + fortnights.fortnights[Url.get.selected[i]].reddit + "\n\n");
+					document.write("	    - **Difficulty:** \n	    - **Number of runs:** \n");
+					document.write("	### " + fortnights.fortnights[Url.get.selected[i]].reddit + "\n");
+					document.write("\n	***\n");
+				}
+				for(var i = thisWeek; i < thisWeek + pastWeek; i++){
+					document.write("	* " + fortnights.fortnights[Url.get.selected[i] - fortnights.fortnights.length].reddit + ": [" + fortnights.fortnights[Url.get.selected[i] - fortnights.fortnights.length].boss + "'s form](" + fortnights.fortnights[Url.get.selected[i] - fortnights.fortnights.length].form + ")\n");
+				}
+			</script>
+
 3. **Submitting a screenshot:** you can always PM either [pesaher](/message/compose/?to=pesaher) or [litwi](/message/compose/?to=litwi) with screenshots or your results in any format you want.
 
 ***
