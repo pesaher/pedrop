@@ -12,19 +12,19 @@
 				var thisWeek = 0;
 				var pastWeek = 0;
 				for(var i = 0; i < Url.get.selected.length; i++)
-					if(Url.get.selected[0].parseInt() < fortnights.fortnights.length)
+					if(Url.get.selected[0] < fortnights.fortnights.length)
 						thisWeek++;
 					else
 						pastWeek++;
-				document.write(fortnights.fortnights[Url.get.selected[0].parseInt()].reddit);
+				document.write(fortnights.fortnights[Url.get.selected[0]].reddit);
 				for(var i = 1; i < thisWeek - 1; i++)
-					document.write(", " + fortnights.fortnights[Url.get.selected[i].parseInt()].reddit);
-				document.write("and " + fortnights.fortnights[Url.get.selected[thisWeek - 1].parseInt()].reddit);
+					document.write(", " + fortnights.fortnights[Url.get.selected[i]].reddit);
+				document.write("and " + fortnights.fortnights[Url.get.selected[thisWeek - 1]].reddit);
 			</script>. Also we would like to kindly remind to the users who have been saving their runs of <script>
-				document.write(fortnights.fortnights[Url.get.selected[thisWeek].parseInt()].reddit);
+				document.write(fortnights.fortnights[Url.get.selected[thisWeek]].reddit);
 				for(var i = thisWeek + 1; i < thisWeek + pastWeek - 1; i++)
-					document.write(", " + fortnights.fortnights[Url.get.selected[i].parseInt()].reddit);
-				document.write("and " + fortnights.fortnights[Url.get.selected[thisWeek + pastWeek - 1].parseInt()].reddit);
+					document.write(", " + fortnights.fortnights[Url.get.selected[i]].reddit);
+				document.write("and " + fortnights.fortnights[Url.get.selected[thisWeek + pastWeek - 1]].reddit);
 			</script> to please upload them so we have more data the next time these fortnights come. We would like to get as many different samples as possible, to get data as much accurate as possible. Remember to not only submit your best runs, but all of them.
 
 The Coliseum data collecting will be divided between previous battles (stages 1-4 for Chaos, for example) and boss battle (stage 5 for Chaos, for example). The boss battle will have chaos only version (e.g: [Urouge](/str)) and non-chaos bosses (e.g: [Rebecca](/qck) and [Lucky Roux](/psy)). Additionally it will be divided in Exhibition, Underground and Chaos difficulty.
