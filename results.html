@@ -41,9 +41,9 @@ You have three ways to submit your results, please use whichever feels best for 
 	* **Coliseum**: [Coliseum's form](https://docs.google.com/forms/d/e/1FAIpQLSfnMqsBhW3-d3da158ePvLiZ_D_6lYHGGt4jX15wiSV-vWrjQ/viewform)
 <script>
 				for(var i = 0; i < thisWeek; i++)
-					document.write("	* " + fortnights.fortnights[Url.get.selected[i]].reddit + ": [" + fortnights.fortnights[Url.get.selected[i]].boss + "'s form](" + fortnights.fortnights[Url.get.selected[i]].reddit + ")\n");
+					document.write("	* " + fortnights.fortnights[Url.get.selected[i]].reddit + ": [" + fortnights.fortnights[Url.get.selected[i]].boss + "'s form](" + fortnights.fortnights[Url.get.selected[i]].form + ")\n");
 				for(var i = thisWeek; i < thisWeek + pastWeek; i++)
-					document.write("	* " + fortnights.fortnights[Url.get.selected[i] - fortnights.fortnights.length].reddit + ": [" + fortnights.fortnights[Url.get.selected[i] - fortnights.fortnights.length].boss + "'s form](" + fortnights.fortnights[Url.get.selected[i] - fortnights.fortnights.length].reddit + ")\n");
+					document.write("	* " + fortnights.fortnights[Url.get.selected[i] - fortnights.fortnights.length].reddit + ": [" + fortnights.fortnights[Url.get.selected[i] - fortnights.fortnights.length].boss + "'s form](" + fortnights.fortnights[Url.get.selected[i] - fortnights.fortnights.length].form + ")\n");
 			</script>
 	If you submit your runs using these, the data will be added automatically to the spreadsheet, without further intervention from us.
 
@@ -77,12 +77,16 @@ You have three ways to submit your results, please use whichever feels best for 
 The results of the current fortnights, as always, will be posted here:
 
 * **Coliseum**: [Coliseum's results](https://docs.google.com/spreadsheets/d/18z7UFIGCw-Otj0vIX2zWaOX1Nv2LIrEVP852pvPQHf8/edit#gid=1603796994)
-* : ['s results]()
-
+<script>
+				for(var i = 0; i < thisWeek; i++)
+					document.write("* " + fortnights.fortnights[Url.get.selected[i]].reddit + ": [" + fortnights.fortnights[Url.get.selected[i]].boss + "'s results](" + fortnights.fortnights[Url.get.selected[i]].sheet + ")\n");
+			</script>
 The results of the leaving fortnights can be seen here:
 
-* : ['s results]()
-
+<script>
+				for(var i = thisWeek; i < thisWeek + pastWeek; i++)
+					document.write("* " + fortnights.fortnights[Url.get.selected[i] - fortnights.fortnights.length].reddit + ": [" + fortnights.fortnights[Url.get.selected[i] - fortnights.fortnights.length].boss + "'s results](" + fortnights.fortnights[Url.get.selected[i] - fortnights.fortnights.length].sheet + ")\n");
+			</script>
 Also, you can check all the data gathering threads, forms and results [here](https://www.reddit.com/r/OnePieceTC/wiki/datagathering) or selecting Resources -> Fortnight Data Drop in the menu.
 
 ***
