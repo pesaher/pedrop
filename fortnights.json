@@ -542,7 +542,21 @@
 			"form": "https://docs.google.com/forms/d/e/1FAIpQLSfCW4jl7lgEg4aDvfl1q2LhUTqMPIYdIDVkOeswLhGxlio7Qw/viewform",
 			"sheet": "https://docs.google.com/spreadsheets/d/1Aww9KGKjgKHZf2YqW1LyEfhPEvizoSS4_BBxHZKh5CM/edit#gid=1743410916",
 			"template":[
-				{"drop": ""},
+				{"drop": "Robin"},
+				{"drop": "Nami"},
+				{"drop": "Chopper - Rejuvenated Doctor"},
+				{"drop": "Monkey D. Luffy - Crew's Promise: 3D2Y manual"},
+				{"drop": "Nami - Weatheria Cat Burglar manual"},
+				{"drop": "Usopp - Hero Fighter of the Forest manual"},
+				{"drop": "Absalom of the Graveyard - Thriller Bark Demon manual"},
+				{"drop": "Chopper - Rejuvenated Doctor manual"},
+				{"drop": "Bohemian Knight Doma manual"},
+				{"drop": "DeCalvan Brothers Brother's Bond manual"},
+				{"drop": "Tilestone manual"},
+				{"drop": "Tony Tony Chopper - Brain Point manual"},
+				{"drop": "Blue Treasure Turtle"},
+				{"drop": "Blue Teen Turtle"},
+				{"drop": "Blue Jeweled Porc"},
 				{"drop": "Cola"}
 			]
 		},
