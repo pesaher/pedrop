@@ -8,7 +8,7 @@
 		<script src="javascript/urlDecoder.js" type="text/javascript"></script>
 	</head>
 	<body>
-		<pre>Hello everyone! Like every week, [we](http://i.imgur.com/2PleUXL.png) are gathering drop data for the current fornights: <script>
+		<pre>Hello everyone! Like every week, [we](http://i.imgur.com/2PleUXL.png) are gathering drop data for the current fornight<script>
 				var thisWeek = 0;
 				var pastWeek = 0;
 				for(var i = 0; i < Url.get.selected.length; i++)
@@ -16,7 +16,9 @@
 						thisWeek++;
 					else
 						pastWeek++;
-				document.write(fortnights.fortnights[Url.get.selected[0]].reddit);
+				if(thisWeek > 1)
+					document.write("s");
+				document.write(": " + fortnights.fortnights[Url.get.selected[0]].reddit);
 				for(var i = 1; i < thisWeek - 1; i++)
 					document.write(", " + fortnights.fortnights[Url.get.selected[i]].reddit);
 				if(thisWeek > 1)
