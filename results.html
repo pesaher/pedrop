@@ -92,8 +92,10 @@ You have three ways to submit your results, please use whichever feels best for 
 1. **Filling a form:** we have the following forms for each fortnight:
 	* **Coliseum**: [Coliseum's form](https://docs.google.com/forms/d/e/1FAIpQLSfnMqsBhW3-d3da158ePvLiZ_D_6lYHGGt4jX15wiSV-vWrjQ/viewform)
 <script>
-				if(friezaWeek > 0)
+				if(friezaWeek == 1)
 					document.write("	* " + fortnights.fortnights[Url.get.selected[frieza]].reddit + ": [" + fortnights.fortnights[Url.get.selected[frieza]].boss + "' form](" + fortnights.fortnights[Url.get.selected[frieza]].form + ")\n");
+				else if(friezaWeek == 2)
+					document.write("	* " + fortnights.fortnights[Url.get.selected[frieza] - fortnights.fortnights.length].reddit + ": [" + fortnights.fortnights[Url.get.selected[frieza] - fortnights.fortnights.length].boss + "' form](" + fortnights.fortnights[Url.get.selected[frieza] - fortnights.fortnights.length].form + ")\n");
 				for(var i = 0; i < thisWeek; i++)
 					if(i != frieza){
 						if(fortnights.fortnights[Url.get.selected[i]].boss.slice(-1) == "s")
