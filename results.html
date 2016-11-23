@@ -29,13 +29,13 @@
 					}
 				if((thisWeek > 1 && friezaWeek != 1) || thisWeek > 2)
 					document.write("s");
-				if(friezaWeek = 1 && frieza = 0){
+				if(friezaWeek == 1 && frieza == 0){
 					document.write(": " + fortnights.fortnights[Url.get.selected[1]].reddit);
 					for(var i = 2; i < thisWeek - 1; i++)
 						document.write(", " + fortnights.fortnights[Url.get.selected[i]].reddit);
 					if(thisWeek > 2)
 						document.write(" and " + fortnights.fortnights[Url.get.selected[thisWeek - 1]].reddit);
-				}else if(friezaWeek = 1 && frieza = thisWeek - 1){
+				}else if(friezaWeek == 1 && frieza == thisWeek - 1){
 					document.write(": " + fortnights.fortnights[Url.get.selected[0]].reddit);
 					for(var i = 1; i < thisWeek - 2; i++)
 						document.write(", " + fortnights.fortnights[Url.get.selected[i]].reddit);
