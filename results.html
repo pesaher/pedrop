@@ -12,7 +12,7 @@
 				var thisWeek = 0;
 				var pastWeek = 0;
 				var friezaWeek = 0;
-				var frieza = 0;
+				var frieza = -1;
 				for(var i = 0; i < Url.get.selected.length; i++)
 					if(Url.get.selected[i] < fortnights.fortnights.length){
 						if(fortnights.fortnights[Url.get.selected[i]].boss == "Frieza"){
@@ -62,16 +62,22 @@ You have three ways to submit your results, please use whichever feels best for 
 1. **Filling a form:** we have the following forms for each fortnight:
 	* **Coliseum**: [Coliseum's form](https://docs.google.com/forms/d/e/1FAIpQLSfnMqsBhW3-d3da158ePvLiZ_D_6lYHGGt4jX15wiSV-vWrjQ/viewform)
 <script>
+				if(friezaWeek > 0)
+					document.write("	* " + fortnights.fortnights[Url.get.selected[frieza]].reddit + ": [" + fortnights.fortnights[Url.get.selected[frieza]].boss + "' form](" + fortnights.fortnights[Url.get.selected[frieza]].form + ")\n");
 				for(var i = 0; i < thisWeek; i++)
-					if(fortnights.fortnights[Url.get.selected[i]].boss.slice(-1) == "s")
-						document.write("	* " + fortnights.fortnights[Url.get.selected[i]].reddit + ": [" + fortnights.fortnights[Url.get.selected[i]].boss + "' form](" + fortnights.fortnights[Url.get.selected[i]].form + ")\n");
-					else
-						document.write("	* " + fortnights.fortnights[Url.get.selected[i]].reddit + ": [" + fortnights.fortnights[Url.get.selected[i]].boss + "'s form](" + fortnights.fortnights[Url.get.selected[i]].form + ")\n");
+					if(i != frieza){
+						if(fortnights.fortnights[Url.get.selected[i]].boss.slice(-1) == "s")
+							document.write("	* " + fortnights.fortnights[Url.get.selected[i]].reddit + ": [" + fortnights.fortnights[Url.get.selected[i]].boss + "' form](" + fortnights.fortnights[Url.get.selected[i]].form + ")\n");
+						else
+							document.write("	* " + fortnights.fortnights[Url.get.selected[i]].reddit + ": [" + fortnights.fortnights[Url.get.selected[i]].boss + "'s form](" + fortnights.fortnights[Url.get.selected[i]].form + ")\n");
+					}
 				for(var i = thisWeek; i < thisWeek + pastWeek; i++)
-					if(fortnights.fortnights[Url.get.selected[i] - fortnights.fortnights.length].boss.slice(-1) == "s")
-						document.write("	* " + fortnights.fortnights[Url.get.selected[i] - fortnights.fortnights.length].reddit + ": [" + fortnights.fortnights[Url.get.selected[i] - fortnights.fortnights.length].boss + "' form](" + fortnights.fortnights[Url.get.selected[i] - fortnights.fortnights.length].form + ")\n");
-					else
-						document.write("	* " + fortnights.fortnights[Url.get.selected[i] - fortnights.fortnights.length].reddit + ": [" + fortnights.fortnights[Url.get.selected[i] - fortnights.fortnights.length].boss + "'s form](" + fortnights.fortnights[Url.get.selected[i] - fortnights.fortnights.length].form + ")\n");
+					if(i != frieza){
+						if(fortnights.fortnights[Url.get.selected[i] - fortnights.fortnights.length].boss.slice(-1) == "s")
+							document.write("	* " + fortnights.fortnights[Url.get.selected[i] - fortnights.fortnights.length].reddit + ": [" + fortnights.fortnights[Url.get.selected[i] - fortnights.fortnights.length].boss + "' form](" + fortnights.fortnights[Url.get.selected[i] - fortnights.fortnights.length].form + ")\n");
+						else
+							document.write("	* " + fortnights.fortnights[Url.get.selected[i] - fortnights.fortnights.length].reddit + ": [" + fortnights.fortnights[Url.get.selected[i] - fortnights.fortnights.length].boss + "'s form](" + fortnights.fortnights[Url.get.selected[i] - fortnights.fortnights.length].form + ")\n");
+					}
 			</script>
 	If you submit your runs using these, the data will be added automatically to the spreadsheet, without further intervention from us.
 
