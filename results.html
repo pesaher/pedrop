@@ -96,18 +96,29 @@ You have three ways to submit your results, please use whichever feels best for 
 
 	***
 <script>
-				for(var i = 0; i < thisWeek; i++){
-					document.write("\n	### " + fortnights.fortnights[Url.get.selected[i]].reddit + "\n\n");
-					document.write("	    - **Difficulty:** \n	    - **Number of runs:** \n");
-					for(var j = 0; j < fortnights.fortnights[Url.get.selected[i]].template.length; j++)
-						document.write("	    - **" + fortnights.fortnights[Url.get.selected[i]].template[j].drop + ":** \n");
+				for(var i = 0; i < thisWeek; i++)
+					if(i != frieza){
+						document.write("\n	### " + fortnights.fortnights[Url.get.selected[i]].reddit + "\n\n");
+						document.write("	    - **Difficulty:** \n	    - **Number of runs:** \n");
+						for(var j = 0; j < fortnights.fortnights[Url.get.selected[i]].template.length; j++)
+							document.write("	    - **" + fortnights.fortnights[Url.get.selected[i]].template[j].drop + ":** \n");
+						document.write("\n	***\n");
+					}
+				for(var i = thisWeek; i < thisWeek + pastWeek; i++)
+					if(i != frieza)
+						document.write("\n	### " + fortnights.fortnights[Url.get.selected[i] - fortnights.fortnights.length].reddit + "\n\n");
+						document.write("	    - **Difficulty:** \n	    - **Number of runs:** \n");
+						for(var j = 0; j < fortnights.fortnights[Url.get.selected[i] - fortnights.fortnights.length].template.length; j++)
+							document.write("	    - **" + fortnights.fortnights[Url.get.selected[i] - fortnights.fortnights.length].template[j].drop + ":** \n");
+						document.write("\n	***\n");
+					}
+				if(friezaWeek == 1){
+					document.write("\n	### " + fortnights.fortnights[Url.get.selected[frieza]].reddit + "\n\n");
+					document.write("	" + fortnights.fortnights[Url.get.selected[frieza]].template[1].message + "\n");
 					document.write("\n	***\n");
-				}
-				for(var i = thisWeek; i < thisWeek + pastWeek; i++){
-					document.write("\n	### " + fortnights.fortnights[Url.get.selected[i] - fortnights.fortnights.length].reddit + "\n\n");
-					document.write("	    - **Difficulty:** \n	    - **Number of runs:** \n");
-					for(var j = 0; j < fortnights.fortnights[Url.get.selected[i] - fortnights.fortnights.length].template.length; j++)
-						document.write("	    - **" + fortnights.fortnights[Url.get.selected[i] - fortnights.fortnights.length].template[j].drop + ":** \n");
+				}else if(friezaWeek == 2){
+					document.write("\n	### " + fortnights.fortnights[Url.get.selected[frieza] - fortnights.fortnights.length].reddit + "\n\n");
+					document.write("	" + fortnights.fortnights[Url.get.selected[frieza] - fortnights.fortnights.length].template[1].message + "\n");
 					document.write("\n	***\n");
 				}
 			</script>
