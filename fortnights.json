@@ -380,6 +380,7 @@
 			"form": "https://docs.google.com/forms/d/e/1FAIpQLSdyB0bot4gHt-0sqZmnxIs-aI3FsCVDamUnhN9TIMmtz_jW4A/viewform",
 			"sheet": "https://docs.google.com/spreadsheets/d/18z7UFIGCw-Otj0vIX2zWaOX1Nv2LIrEVP852pvPQHf8/edit#gid=417952986",
 			"template":[
+				{"message": "Additionally to this weeks fortnights and Coliseum, we will also be collecting data of Frieza runs! As it will stay for a month, it seems like a great opportunity to gather data for the next weeks, and help other players decide if it's worth for them to run it!"}
 				{"message": "Unfortunately, we will not provide a Frieza template for the comments, as it would be 90 lines long. Instead, just post the number of runs and the drops that you've gotten in a beautiful format, if possible."}
 			]
 		},
