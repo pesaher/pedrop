@@ -11,8 +11,11 @@
 		<pre>Hello everyone! Like every week, [we](http://i.imgur.com/2PleUXL.png) are gathering drop data for the current fornight<script>
 				var thisWeek = 0;
 				var pastWeek = 0;
+				var Frieza = 0;
 				for(var i = 0; i < Url.get.selected.length; i++)
-					if(Url.get.selected[i] < fortnights.fortnights.length)
+					if(fortnights.fortnights[Url.get.selected[i]].boss == "Frieza" || fortnights.fortnights[Url.get.selected[i] - fortnights.fortnights.length].boss == "Frieza")
+						Frieza = 1;
+					else if(Url.get.selected[i] < fortnights.fortnights.length)
 						thisWeek++;
 					else
 						pastWeek++;
