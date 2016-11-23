@@ -105,7 +105,7 @@ You have three ways to submit your results, please use whichever feels best for 
 						document.write("\n	***\n");
 					}
 				for(var i = thisWeek; i < thisWeek + pastWeek; i++)
-					if(i != frieza)
+					if(i != frieza){
 						document.write("\n	### " + fortnights.fortnights[Url.get.selected[i] - fortnights.fortnights.length].reddit + "\n\n");
 						document.write("	    - **Difficulty:** \n	    - **Number of runs:** \n");
 						for(var j = 0; j < fortnights.fortnights[Url.get.selected[i] - fortnights.fortnights.length].template.length; j++)
