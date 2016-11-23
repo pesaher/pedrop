@@ -27,7 +27,7 @@
 						}
 						pastWeek++;
 					}
-				if(thisWeek > 1)
+				if((thisWeek > 1 && friezaWeek != 1) || thisWeek > 2)
 					document.write("s");
 				document.write(": " + fortnights.fortnights[Url.get.selected[0]].reddit);
 				for(var i = 1; i < thisWeek - 1; i++)
