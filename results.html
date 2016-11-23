@@ -113,22 +113,30 @@ The results of the current fortnights, as always, will be posted here:
 
 * **Coliseum**: [Coliseum's results](https://docs.google.com/spreadsheets/d/18z7UFIGCw-Otj0vIX2zWaOX1Nv2LIrEVP852pvPQHf8/edit#gid=1603796994)
 <script>
+				if(friezaWeek == 1)
+						document.write("* " + fortnights.fortnights[Url.get.selected[frieza]].reddit + ": [" + fortnights.fortnights[Url.get.selected[frieza]].boss + "'s results](" + fortnights.fortnights[Url.get.selected[frieza]].sheet + ")\n");
 				for(var i = 0; i < thisWeek; i++)
-					if(fortnights.fortnights[Url.get.selected[i]].boss.slice(-1) == "s")
-						document.write("* " + fortnights.fortnights[Url.get.selected[i]].reddit + ": [" + fortnights.fortnights[Url.get.selected[i]].boss + "' results](" + fortnights.fortnights[Url.get.selected[i]].sheet + ")\n");
-					else
-						document.write("* " + fortnights.fortnights[Url.get.selected[i]].reddit + ": [" + fortnights.fortnights[Url.get.selected[i]].boss + "'s results](" + fortnights.fortnights[Url.get.selected[i]].sheet + ")\n");
+					if(i != frieza){
+						if(fortnights.fortnights[Url.get.selected[i]].boss.slice(-1) == "s")
+							document.write("* " + fortnights.fortnights[Url.get.selected[i]].reddit + ": [" + fortnights.fortnights[Url.get.selected[i]].boss + "' results](" + fortnights.fortnights[Url.get.selected[i]].sheet + ")\n");
+						else
+							document.write("* " + fortnights.fortnights[Url.get.selected[i]].reddit + ": [" + fortnights.fortnights[Url.get.selected[i]].boss + "'s results](" + fortnights.fortnights[Url.get.selected[i]].sheet + ")\n");
+					}
 			</script>
 The results of the leaving fortnights can be seen here:
 
 <script>
+				if(friezaWeek == 1)
+						document.write("* " + fortnights.fortnights[Url.get.selected[frieza] - fortnights.fortnights.length].reddit + ": [" + fortnights.fortnights[Url.get.selected[frieza] - fortnights.fortnights.length].boss + "'s results](" + fortnights.fortnights[Url.get.selected[frieza] - fortnights.fortnights.length].sheet + ")\n");
 				for(var i = thisWeek; i < thisWeek + pastWeek; i++)
-					if(fortnights.fortnights[Url.get.selected[i] - fortnights.fortnights.length].boss.slice(-1) == "s")
-						document.write("* " + fortnights.fortnights[Url.get.selected[i] - fortnights.fortnights.length].reddit + ": [" + fortnights.fortnights[Url.get.selected[i] - fortnights.fortnights.length].boss + "' results](" + fortnights.fortnights[Url.get.selected[i] - fortnights.fortnights.length].sheet + ")\n");
-					else
-						document.write("* " + fortnights.fortnights[Url.get.selected[i] - fortnights.fortnights.length].reddit + ": [" + fortnights.fortnights[Url.get.selected[i] - fortnights.fortnights.length].boss + "'s results](" + fortnights.fortnights[Url.get.selected[i] - fortnights.fortnights.length].sheet + ")\n");
+					if(i != frieza){
+						if(fortnights.fortnights[Url.get.selected[i] - fortnights.fortnights.length].boss.slice(-1) == "s")
+							document.write("* " + fortnights.fortnights[Url.get.selected[i] - fortnights.fortnights.length].reddit + ": [" + fortnights.fortnights[Url.get.selected[i] - fortnights.fortnights.length].boss + "' results](" + fortnights.fortnights[Url.get.selected[i] - fortnights.fortnights.length].sheet + ")\n");
+						else
+							document.write("* " + fortnights.fortnights[Url.get.selected[i] - fortnights.fortnights.length].reddit + ": [" + fortnights.fortnights[Url.get.selected[i] - fortnights.fortnights.length].boss + "'s results](" + fortnights.fortnights[Url.get.selected[i] - fortnights.fortnights.length].sheet + ")\n");
+					}
 			</script>
-Also, you can check all the data gathering threads, forms and results [here](https://www.reddit.com/r/OnePieceTC/wiki/datagathering) or selecting Resources -> Fortnight Data Drop in the menu.
+Also, you can check all the data gathering threads, forms and results [here](https://www.reddit.com/r/OnePieceTC/wiki/datagathering) or selecting Resources -> Fortnight Drop Data in the menu.
 
 ***
 
