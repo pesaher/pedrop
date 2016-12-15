@@ -1,4 +1,28 @@
 {"fortnights":[
+		{"name": "Hannyabal's Great Ambition",
+			"boss": "Hannyabal",
+			"reddit": "[Hannyabal](/dex)",
+			"form": "",
+			"sheet": "",
+			"template":[
+				{"drop": "Hannyabal"},
+				{"drop": "Saldeath"},
+				{"drop": "Blugori"},
+				{"drop": "Kalifa - CP9's Strongest manual"},
+				{"drop": "Fukuro - CP9's Strongest manual"},
+				{"drop": "Monkey D. Luffy - A Pirate Who Lives by His Code manual"},
+				{"drop": "Kalifa: Six Powers - Cipher Pol No. 9 manual"},
+				{"drop": "Fukuro: Six Powers - Cipher Pol No. 9 manual"},
+				{"drop": "Dr. Hiriluk - Quack Doctor manual"},
+				{"drop": "Saldeath manual"},
+				{"drop": "Wyper - Descendant of Great Warrior Calgara manual"},
+				{"drop": "Onion, Pepper & Carrot - Usopp Pirates manual"},
+				{"drop": "Green Treasure Turtle"},
+				{"drop": "Green Teen Turtle"},
+				{"drop": "Green Jeweled Porc"},
+				{"drop": "Cola"}
+			]
+		},
 		{"name": "Secret Garden Off Limits to Men!",
 			"boss": "Marguerite",
 			"reddit": "[Marguerite](/qck)",
