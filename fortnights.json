@@ -2,8 +2,8 @@
 		{"name": "Hannyabal's Great Ambition",
 			"boss": "Hannyabal",
 			"reddit": "[Hannyabal](/dex)",
-			"form": "",
-			"sheet": "",
+			"form": "https://docs.google.com/forms/d/e/1FAIpQLSdY-85CuG32itMEaXu3ARh2nBiO75gLqD5sY6OXqIHoe9nxMA/viewform",
+			"sheet": "https://docs.google.com/spreadsheets/d/1Aww9KGKjgKHZf2YqW1LyEfhPEvizoSS4_BBxHZKh5CM/edit#gid=397483427",
 			"template":[
 				{"drop": "Hannyabal"},
 				{"drop": "Saldeath"},
