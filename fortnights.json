@@ -2,8 +2,8 @@
 		{"name": "Encounter! Whitebeard Pirates",
 			"boss": "Whitebeard Pirates",
 			"reddit": "[Whitebeard Pirates](/int)",
-			"form": "",
-			"sheet": "",
+			"form": "https://docs.google.com/forms/d/e/1FAIpQLScCj1aVjSeiSR6v1rN5aMXoAeTIUo3HsovI_4wczvyRvA_EYg/viewform",
+			"sheet": "https://docs.google.com/spreadsheets/d/1Aww9KGKjgKHZf2YqW1LyEfhPEvizoSS4_BBxHZKh5CM/edit#gid=15194363",
 			"template":[
 				{"drop": "Rakuyo, Whitebeard 7th Div. Commander"},
 				{"drop": "Fossa, Whitebeard 15th Div. Commander"},
