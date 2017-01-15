@@ -18,10 +18,10 @@
 				{"drop": "Jabra: Six Powers - Cipher Pol No. 9 manual"},
 				{"drop": "Porche manual"},
 				{"drop": "Yellow Treasure Turtle"},
-				{"drop": "Yellow Teen Turtle"},
+				{"drop": "Yellow Daimyo Turtle"},
 				{"drop": "Yellow Jeweled Porc"},
 				{"drop": "Black Treasure Turtle"},
-				{"drop": "Black Teen Turtle"},
+				{"drop": "Black Daimyo Turtle"},
 				{"drop": "Black Jeweled Porc"},
 				{"drop": "Cola"}
 			]
@@ -45,10 +45,10 @@
 				{"drop": "Kami Eneru manual"},
 				{"drop": "Spandam manual"},
 				{"drop": "Yellow Treasure Turtle"},
-				{"drop": "Yellow Teen Turtle"},
+				{"drop": "Yellow Daimyo Turtle"},
 				{"drop": "Yellow Jeweled Porc"},
 				{"drop": "Black Treasure Turtle"},
-				{"drop": "Black Teen Turtle"},
+				{"drop": "Black Daimyo Turtle"},
 				{"drop": "Black Jeweled Porc"},
 				{"drop": "Cola"}
 			]
@@ -72,10 +72,10 @@
 				{"drop": "Wyper - Descendant of Great Warrior Calgara manual"},
 				{"drop": "Onion, Pepper & Carrot - Usopp Pirates manual"},
 				{"drop": "Red Treasure Turtle"},
-				{"drop": "Red Teen Turtle"},
+				{"drop": "Red Daimyo Turtle"},
 				{"drop": "Red Jeweled Porc"},
 				{"drop": "Green Treasure Turtle"},
-				{"drop": "Green Teen Turtle"},
+				{"drop": "Green Daimyo Turtle"},
 				{"drop": "Green Jeweled Porc"},
 				{"drop": "Cola"}
 			]
@@ -99,10 +99,10 @@
 				{"drop": "Ohm manual"},
 				{"drop": "Nola - Giant Snake manual"},
 				{"drop": "Blue Treasure Turtle"},
-				{"drop": "Blue Teen Turtle"},
+				{"drop": "Blue Daimyo Turtle"},
 				{"drop": "Blue Jeweled Porc"},
 				{"drop": "Green Treasure Turtle"},
-				{"drop": "Green Teen Turtle"},
+				{"drop": "Green Daimyo Turtle"},
 				{"drop": "Green Jeweled Porc"},
 				{"drop": "Cola"}
 			]
@@ -126,7 +126,7 @@
 				{"drop": "Demolisher Spearman manual"},
 				{"drop": "Watchdog Unit of the Law manual"},
 				{"drop": "Black Treasure Turtle"},
-				{"drop": "Black Teen Turtle"},
+				{"drop": "Black Daimyo Turtle"},
 				{"drop": "Black Jeweled Porc"},
 				{"drop": "Cola"}
 			]
@@ -150,7 +150,7 @@
 				{"drop": "Tilestone manual"},
 				{"drop": "Tony Tony Chopper - Brain Point manual"},
 				{"drop": "Blue Treasure Turtle"},
-				{"drop": "Blue Teen Turtle"},
+				{"drop": "Blue Daimyo Turtle"},
 				{"drop": "Blue Jeweled Porc"},
 				{"drop": "Cola"}
 			]
@@ -178,7 +178,7 @@
 				{"drop": "Billy manual"},
 				{"drop": "Purinpurin manual"},
 				{"drop": "Green Treasure Turtle"},
-				{"drop": "Green Teen Turtle"},
+				{"drop": "Green Daimyo Turtle"},
 				{"drop": "Green Jeweled Porc"},
 				{"drop": "Cola"}
 			]
@@ -212,7 +212,7 @@
 				{"drop": "Franky Franky Family manual"},
 				{"drop": "Horo Horo Ghost manual"},
 				{"drop": "Red Treasure Turtle"},
-				{"drop": "Red Teen Turtle"},
+				{"drop": "Red Daimyo Turtle"},
 				{"drop": "Red Jeweled Porc"},
 				{"drop": "Cola"}
 			]
@@ -236,7 +236,7 @@
 				{"drop": "Hamburg manual"},
 				{"drop": "Cerberus manual"},
 				{"drop": "Black Treasure Turtle"},
-				{"drop": "Black Teen Turtle"},
+				{"drop": "Black Daimyo Turtle"},
 				{"drop": "Black Jeweled Porc"},
 				{"drop": "Cola"}
 			]
@@ -263,7 +263,7 @@
 				{"drop": "Satori manual"},
 				{"drop": "Tony Tony Chopper Heavy Point manual"},
 				{"drop": "Blue Treasure Turtle"},
-				{"drop": "Blue Teen Turtle"},
+				{"drop": "Blue Daimyo Turtle"},
 				{"drop": "Blue Jeweled Porc"},
 				{"drop": "Cola"}
 			]
@@ -286,7 +286,7 @@
 				{"drop": "Sandora Dragon"},
 				{"drop": "Minorhinoceros"},
 				{"drop": "Black Treasure Turtle"},
-				{"drop": "Black Teen Turtle"},
+				{"drop": "Black Daimyo Turtle"},
 				{"drop": "Black Jeweled Porc"},
 				{"drop": "Cola"},
 				{"drop": "Cotton Candy"}
@@ -301,7 +301,7 @@
 				{"drop": "Ice Cream-Loving Nami"},
 				{"drop": "Summer Luffy"},
 				{"drop": "Green Treasure Turtle"},
-				{"drop": "Green Teen Turtle"},
+				{"drop": "Green Daimyo Turtle"},
 				{"drop": "Green Jeweled Porc"},
 				{"drop": "Cola"},
 				{"drop": "Cotton Candy"}
@@ -316,7 +316,7 @@
 				{"drop": "Ice Cream-Loving Robin"},
 				{"drop": "Summer Luffy"},
 				{"drop": "Yellow Treasure Turtle"},
-				{"drop": "Yellow Teen Turtle"},
+				{"drop": "Yellow Daimyo Turtle"},
 				{"drop": "Yellow Jeweled Porc"},
 				{"drop": "Cola"},
 				{"drop": "Cotton Candy"}
@@ -340,7 +340,7 @@
 				{"drop": "Demolisher Spearman manual"},
 				{"drop": "Demolisher Gunner manual"},
 				{"drop": "Green Treasure Turtle"},
-				{"drop": "Green Teen Turtle"},
+				{"drop": "Green Daimyo Turtle"},
 				{"drop": "Green Jeweled Porc"},
 				{"drop": "Cola"}
 			]
@@ -365,7 +365,7 @@
 				{"drop": "Risky Brothers manual"},
 				{"drop": "Kaya manual"},
 				{"drop": "Yellow Treasure Turtle"},
-				{"drop": "Yellow Teen Turtle"},
+				{"drop": "Yellow Daimyo Turtle"},
 				{"drop": "Yellow Jeweled Porc"},
 				{"drop": "Cola"}
 			]
@@ -390,7 +390,7 @@
 				{"drop": "Kung Fu Dugong manual"},
 				{"drop": "Sarquiss manual"},
 				{"drop": "Black Treasure Turtle"},
-				{"drop": "Black Teen Turtle"},
+				{"drop": "Black Daimyo Turtle"},
 				{"drop": "Black Jeweled Porc"},
 				{"drop": "Cola"}
 			]
@@ -412,7 +412,7 @@
 				{"drop": "Big Bun manual"},
 				{"drop": "Pickles manual"},
 				{"drop": "Green Treasure Turtle"},
-				{"drop": "Green Teen Turtle"},
+				{"drop": "Green Daimyo Turtle"},
 				{"drop": "Green Jeweled Porc"},
 				{"drop": "Emerald Jeweled Porc"},
 				{"drop": "Cola"},
@@ -436,7 +436,7 @@
 				{"drop": "Porche manual"},
 				{"drop": "Capote manual"},
 				{"drop": "Yellow Treasure Turtle"},
-				{"drop": "Yellow Teen Turtle"},
+				{"drop": "Yellow Daimyo Turtle"},
 				{"drop": "Yellow Jeweled Porc"},
 				{"drop": "Cola"}
 			]
@@ -459,7 +459,7 @@
 				{"drop": "Miss Doublefinger manual"},
 				{"drop": "Miss Valentine manual"},
 				{"drop": "Blue Treasure Turtle"},
-				{"drop": "Blue Teen Turtle"},
+				{"drop": "Blue Daimyo Turtle"},
 				{"drop": "Blue Jeweled Porc"},
 				{"drop": "Cola"}
 			]
@@ -481,10 +481,10 @@
 				{"drop": "Montblanc Cricket manual"},
 				{"drop": "South Bird and Forest Residents manual"},
 				{"drop": "Red Treasure Turtle"},
-				{"drop": "Red Teen Turtle"},
+				{"drop": "Red Daimyo Turtle"},
 				{"drop": "Red Jeweled Porc"},
 				{"drop": "Black Treasure Turtle"},
-				{"drop": "Black Teen Turtle"},
+				{"drop": "Black Daimyo Turtle"},
 				{"drop": "Black Jeweled Porc"},
 				{"drop": "Cola"}
 			]
@@ -507,10 +507,10 @@
 				{"drop": "Cobra manual"},
 				{"drop": "Sea Cat manual"},
 				{"drop": "Blue Treasure Turtle"},
-				{"drop": "Blue Teen Turtle"},
+				{"drop": "Blue Daimyo Turtle"},
 				{"drop": "Blue Jeweled Porc"},
 				{"drop": "Yellow Treasure Turtle"},
-				{"drop": "Yellow Teen Turtle"},
+				{"drop": "Yellow Daimyo Turtle"},
 				{"drop": "Yellow Jeweled Porc"},
 				{"drop": "Cola"}
 			]
@@ -533,7 +533,7 @@
 				{"drop": "Choo Sun Pirates manual"},
 				{"drop": "Momoo manual"},
 				{"drop": "Red Treasure Turtle"},
-				{"drop": "Red Teen Turtle"},
+				{"drop": "Red Daimyo Turtle"},
 				{"drop": "Red Jeweled Porc"},
 				{"drop": "Cola"}
 			]
@@ -556,7 +556,7 @@
 				{"drop": "Miss Merry Christmas manual"},
 				{"drop": "Giant Warrior Green Pirates manual"},
 				{"drop": "Blue Treasure Turtle"},
-				{"drop": "Blue Teen Turtle"},
+				{"drop": "Blue Daimyo Turtle"},
 				{"drop": "Blue Jeweled Porc"},
 				{"drop": "Cola"}
 			]
@@ -579,8 +579,31 @@
 				{"drop": "Nezumi manual"},
 				{"drop": "Mr. 13 & Ms. Friday The Unluckies manual"},
 				{"drop": "Yellow Treasure Turtle"},
-				{"drop": "Yellow Teen Turtle"},
+				{"drop": "Yellow Daimyo Turtle"},
 				{"drop": "Yellow Jeweled Porc"},
+				{"drop": "Cola"}
+			]
+		},
+		{"name": "Clash!? Usopp-un",
+			"boss": "Usopp-un",
+			"reddit": "[Usopp-un](/psy)",
+			"form": "https://docs.google.com/forms/d/e/1FAIpQLSe57S5KCQlxXfARusq4ATuQ_Rh3YxO4m5gZwUBvDGHofhkbXg/viewform",
+			"sheet": "https://docs.google.com/spreadsheets/d/1Aww9KGKjgKHZf2YqW1LyEfhPEvizoSS4_BBxHZKh5CM/edit#gid=351924224",
+			"template":[
+				{"drop": "Usopp-un"},
+				{"drop": "Usopp manual"},
+				{"drop": "Usopp - Tabasco Star manual"},
+				{"drop": "Usopp - Usopp Golden Pound manual"},
+				{"drop": "Sogeking manual"},
+				{"drop": "Usopp - Usopp Hammer manual"},
+				{"drop": "Usopp - Impact manual"},
+				{"drop": "Sea Pony"},
+				{"drop": "Sea Horse"},
+				{"drop": "Yellow Treasure Turtle"},
+				{"drop": "Yellow Daimyo Turtle"},
+				{"drop": "Yellow Jeweled Porc"},
+				{"drop": "Yellow Plated Lobster"},
+				{"drop": "Cotton Candy"},
 				{"drop": "Cola"}
 			]
 		},
@@ -602,7 +625,7 @@
 				{"drop": "Cheff Zeff manual"},
 				{"drop": "Patty manual"},
 				{"drop": "Green Treasure Turtle"},
-				{"drop": "Green Teen Turtle"},
+				{"drop": "Green Daimyo Turtle"},
 				{"drop": "Green Jeweled Porc"},
 				{"drop": "Cola"}
 			]
@@ -624,10 +647,10 @@
 				{"drop": "Yama manual"},
 				{"drop": "Giant Imperial Striker manual"},
 				{"drop": "Yellow Treasure Turtle"},
-				{"drop": "Yellow Teen Turtle"},
+				{"drop": "Yellow Daimyo Turtle"},
 				{"drop": "Yellow Jeweled Porc"},
 				{"drop": "Black Treasure Turtle"},
-				{"drop": "Black Teen Turtle"},
+				{"drop": "Black Daimyo Turtle"},
 				{"drop": "Black Jeweled Porc"},
 				{"drop": "Cola"}
 			]
@@ -650,7 +673,7 @@
 				{"drop": "Masira manual"},
 				{"drop": "Dalton manual"},
 				{"drop": "Black Treasure Turtle"},
-				{"drop": "Black Teen Turtle"},
+				{"drop": "Black Daimyo Turtle"},
 				{"drop": "Black Jeweled Porc"},
 				{"drop": "Cola"}
 			]
@@ -671,7 +694,7 @@
 				{"drop": "Miss Monday manual"},
 				{"drop": "Mr. 8 manual"},
 				{"drop": "Green Treasure Turtle"},
-				{"drop": "Green Teen Turtle"},
+				{"drop": "Green Daimyo Turtle"},
 				{"drop": "Green Jeweled Porc"},
 				{"drop": "Cola"}
 			]
@@ -694,7 +717,7 @@
 				{"drop": "Chessmarimo manual"},
 				{"drop": "Dr. Kureha manual"},
 				{"drop": "Red Treasure Turtle"},
-				{"drop": "Red Teen Turtle"},
+				{"drop": "Red Daimyo Turtle"},
 				{"drop": "Red Jeweled Porc"},
 				{"drop": "Cola"}
 			]
@@ -716,10 +739,10 @@
 				{"drop": "Giant Imperial Striker manual"},
 				{"drop": "Giant Imperial Fighter manual"},
 				{"drop": "Green Treasure Turtle"},
-				{"drop": "Green Teen Turtle"},
+				{"drop": "Green Daimyo Turtle"},
 				{"drop": "Green Jeweled Porc"},
 				{"drop": "Black Treasure Turtle"},
-				{"drop": "Black Teen Turtle"},
+				{"drop": "Black Daimyo Turtle"},
 				{"drop": "Black Jeweled Porc"},
 				{"drop": "Cola"}
 			]
@@ -752,7 +775,7 @@
 				{"drop": "Mr. Prince manual"},
 				{"drop": "Nami manual"},
 				{"drop": "Black Treasure Turtle"},
-				{"drop": "Black Teen Turtle"},
+				{"drop": "Black Daimyo Turtle"},
 				{"drop": "Black Jeweled Porc"},
 				{"drop": "Cola"}
 			]
@@ -773,7 +796,7 @@
 				{"drop": "Miss All Sunday Baroque Works VP manual"},
 				{"drop": "Mr. 9 manual"},
 				{"drop": "Blue Treasure Turtle"},
-				{"drop": "Blue Teen Turtle"},
+				{"drop": "Blue Daimyo Turtle"},
 				{"drop": "Blue Jeweled Porc"},
 				{"drop": "Cola"}
 			]
@@ -806,10 +829,10 @@
 				{"drop": "Dorry manual"},
 				{"drop": "Lapin manual"},
 				{"drop": "Giant Imperial Fighter manual"},
-				{"drop": "Red Teen Turtle"},
-				{"drop": "Blue Teen Turtle"},
+				{"drop": "Red Daimyo Turtle"},
+				{"drop": "Blue Daimyo Turtle"},
 				{"drop": "Black Treasure Turtle"},
-				{"drop": "Black Teen Turtle"},
+				{"drop": "Black Daimyo Turtle"},
 				{"drop": "Black Jeweled Porc"},
 				{"drop": "Cola"}
 			]
@@ -830,10 +853,10 @@
 				{"drop": "Ryuma manual"},
 				{"drop": "Wapol manual"},
 				{"drop": "Blue Treasure Turtle"},
-				{"drop": "Blue Teen Turtle"},
+				{"drop": "Blue Daimyo Turtle"},
 				{"drop": "Blue Jeweled Porc"},
 				{"drop": "Yellow Treasure Turtle"},
-				{"drop": "Yellow Teen Turtle"},
+				{"drop": "Yellow Daimyo Turtle"},
 				{"drop": "Yellow Jeweled Porc"},
 				{"drop": "Cola"}
 			]
@@ -858,7 +881,7 @@
 				{"drop": "Mr. 9 manual"},
 				{"drop": "Dorry manual"},
 				{"drop": "Blue Treasure Turtle"},
-				{"drop": "Blue Teen Turtle"},
+				{"drop": "Blue Daimyo Turtle"},
 				{"drop": "Blue Jeweled Porc"},
 				{"drop": "Cola"}
 			]
@@ -884,7 +907,7 @@
 				{"drop": "Zoro manual"},
 				{"drop": "Broggy manual"},
 				{"drop": "Red Treasure Turtle"},
-				{"drop": "Red Teen Turtle"},
+				{"drop": "Red Daimyo Turtle"},
 				{"drop": "Red Jeweled Porc"},
 				{"drop": "Cola"}
 			]
@@ -906,10 +929,10 @@
 				{"drop": "Jigoro of the Wind manual"},
 				{"drop": "Dr. Kureha manual"},
 				{"drop": "Red Treasure Turtle"},
-				{"drop": "Red Teen Turtle"},
+				{"drop": "Red Daimyo Turtle"},
 				{"drop": "Red Jeweled Porc"},
 				{"drop": "Blue Treasure Turtle"},
-				{"drop": "Blue Teen Turtle"},
+				{"drop": "Blue Daimyo Turtle"},
 				{"drop": "Blue Jeweled Porc"},
 				{"drop": "Cola"}
 			]
@@ -931,10 +954,10 @@
 				{"drop": "Kumacy manual"},
 				{"drop": "Dog Penguin manual"},
 				{"drop": "Red Treasure Turtle"},
-				{"drop": "Red Teen Turtle"},
+				{"drop": "Red Daimyo Turtle"},
 				{"drop": "Red Jeweled Porc"},
 				{"drop": "Green Treasure Turtle"},
-				{"drop": "Green Teen Turtle"},
+				{"drop": "Green Daimyo Turtle"},
 				{"drop": "Green Jeweled Porc"},
 				{"drop": "Cola"}
 			]
@@ -954,10 +977,10 @@
 				{"drop": "Nami manual"},
 				{"drop": "Mohji & Richie"},
 				{"drop": "Yellow Treasure Turtle"},
-				{"drop": "Yellow Teen Turtle"},
+				{"drop": "Yellow Daimyo Turtle"},
 				{"drop": "Yellow Jeweled Porc"},
 				{"drop": "Black Treasure Turtle"},
-				{"drop": "Black Teen Turtle"},
+				{"drop": "Black Daimyo Turtle"},
 				{"drop": "Black Jeweled Porc"},
 				{"drop": "Cola"}
 			]
@@ -983,10 +1006,10 @@
 				{"drop": "Dancing Django manual"},
 				{"drop": "Miss Wednesday manual"},
 				{"drop": "Red Treasure Turtle"},
-				{"drop": "Red Teen Turtle"},
+				{"drop": "Red Daimyo Turtle"},
 				{"drop": "Red Jeweled Porc"},
 				{"drop": "Blue Treasure Turtle"},
-				{"drop": "Blue Teen Turtle"},
+				{"drop": "Blue Daimyo Turtle"},
 				{"drop": "Blue Jeweled Porc"},
 				{"drop": "Cola"}
 			]
@@ -1008,9 +1031,9 @@
 				{"drop": "Shanks manual"},
 				{"drop": "Vista manual"},
 				{"drop": "Yellow Treasure Turtle"},
-				{"drop": "Yellow Teen Turtle"},
+				{"drop": "Yellow Daimyo Turtle"},
 				{"drop": "Yellow Jeweled Porc"},
-				{"drop": "Black Teen Turtle"},
+				{"drop": "Black Daimyo Turtle"},
 				{"drop": "Cola"}
 			]
 		},
@@ -1030,9 +1053,9 @@
 				{"drop": "Chopper manual"},
 				{"drop": "Gin the Man-Demon manual"},
 				{"drop": "Blue Treasure Turtle"},
-				{"drop": "Blue Teen Turtle"},
+				{"drop": "Blue Daimyo Turtle"},
 				{"drop": "Blue Jeweled Porc"},
-				{"drop": "Green Teen Turtle"},
+				{"drop": "Green Daimyo Turtle"},
 				{"drop": "Cola"}
 			]
 		},
@@ -1050,9 +1073,9 @@
 				{"drop": "Neptunian Squid manual"},
 				{"drop": "Kuroobi manual"},
 				{"drop": "Fire Pearl manual"},
-				{"drop": "Red Teen Turtle"},
+				{"drop": "Red Daimyo Turtle"},
 				{"drop": "Green Treasure Turtle"},
-				{"drop": "Green Teen Turtle"},
+				{"drop": "Green Daimyo Turtle"},
 				{"drop": "Green Jeweled Porc"},
 				{"drop": "Cola"}
 			]
@@ -1074,7 +1097,7 @@
 				{"drop": "Miss Monday manual"},
 				{"drop": "Mr. 8 manual"},
 				{"drop": "Black Treasure Turtle"},
-				{"drop": "Black Teen Turtle"},
+				{"drop": "Black Daimyo Turtle"},
 				{"drop": "Black Jeweled Porc"},
 				{"drop": "Cola"}
 			]
@@ -1095,7 +1118,7 @@
 				{"drop": "Patty manual"},
 				{"drop": "Mr. 9 manual"},
 				{"drop": "Green Treasure Turtle"},
-				{"drop": "Green Teen Turtle"},
+				{"drop": "Green Daimyo Turtle"},
 				{"drop": "Green Jeweled Porc"},
 				{"drop": "Cola"}
 			]
@@ -1116,7 +1139,7 @@
 				{"drop": "Fire Pearl manual"},
 				{"drop": "Cabin Boy Coby manual"},
 				{"drop": "Yellow Treasure Turtle"},
-				{"drop": "Yellow Teen Turtle"},
+				{"drop": "Yellow Daimyo Turtle"},
 				{"drop": "Yellow Jeweled Porc"},
 				{"drop": "Cola"}
 			]
@@ -1138,7 +1161,7 @@
 				{"drop": "Dancing Django manual"},
 				{"drop": "Kuroobi manual"},
 				{"drop": "Blue Treasure Turtle"},
-				{"drop": "Blue Teen Turtle"},
+				{"drop": "Blue Daimyo Turtle"},
 				{"drop": "Blue Jeweled Porc"},
 				{"drop": "Cola"}
 			]
@@ -1159,10 +1182,10 @@
 				{"drop": "Tony-Tony Chopper, Heavy Point manual"},
 				{"drop": "Tony-Tony Chopper, Brain Point manual"},
 				{"drop": "Red Treasure Turtle"},
-				{"drop": "Red Teen Turtle"},
+				{"drop": "Red Daimyo Turtle"},
 				{"drop": "Red Jeweled Porc"},
 				{"drop": "Green Treasure Turtle"},
-				{"drop": "Green Teen Turtle"},
+				{"drop": "Green Daimyo Turtle"},
 				{"drop": "Green Jeweled Porc"},
 				{"drop": "Cola"}
 			]
@@ -1179,9 +1202,9 @@
 				{"drop": "Sanji manual"},
 				{"drop": "Krieg manual"},
 				{"drop": "Yellow Treasure Turtle"},
-				{"drop": "Yellow Teen Turtle"},
+				{"drop": "Yellow Daimyo Turtle"},
 				{"drop": "Black Treasure Turtle"},
-				{"drop": "Black Teen Turtle"},
+				{"drop": "Black Daimyo Turtle"},
 				{"drop": "Black Jeweled Porc"},
 				{"drop": "Cola"}
 			]
@@ -1199,7 +1222,7 @@
 				{"drop": "Arlong manual"},
 				{"drop": "Nami manual"},
 				{"drop": "Red Treasure Turtle"},
-				{"drop": "Red Teen Turtle"},
+				{"drop": "Red Daimyo Turtle"},
 				{"drop": "Red Jeweled Porc"},
 				{"drop": "Cola"}
 			]
@@ -1216,7 +1239,7 @@
 				{"drop": "One-Two Django"},
 				{"drop": "Usopp manual"},
 				{"drop": "Blue Treasure Turtle"},
-				{"drop": "Blue Teen Turtle"},
+				{"drop": "Blue Daimyo Turtle"},
 				{"drop": "Blue Jeweled Porc"},
 				{"drop": "Cola"}
 			]
@@ -1235,7 +1258,7 @@
 				{"drop": "Roronoa Zoro manual"},
 				{"drop": "Iron-Mace Alvida manual"},
 				{"drop": "Red Treasure Turtle"},
-				{"drop": "Red Teen Turtle"},
+				{"drop": "Red Daimyo Turtle"},
 				{"drop": "Red Jeweled Porc"},
 				{"drop": "Cola"}
 			]
@@ -1251,7 +1274,7 @@
 				{"drop": "Mohji & Richie"},
 				{"drop": "Monkey D. Luffy manual"},
 				{"drop": "Black Treasure Turtle"},
-				{"drop": "Black Teen Turtle"},
+				{"drop": "Black Daimyo Turtle"},
 				{"drop": "Black Jeweled Porc"},
 				{"drop": "Cola"}
 			]
