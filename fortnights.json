@@ -804,8 +804,8 @@
 		{"name": "Special Training!! Supersonic Duck Squadron!",
 			"boss": "Supersonic Duck Squadron",
 			"reddit": "[Supersonic Duck Squadron](/psy)",
-			"form": "??????????????????",
-			"sheet": "??????????????????????????",
+			"form": "",
+			"sheet": "https://docs.google.com/spreadsheets/d/1EINY_S2n8S9YbAvKkt43_iuEYT0VrJIzF-Y2kz-_b24/edit#gid=186489897",
 			"template":[
 				{"drop": "Karoo"},
 				{"drop": "Centaur and Hikoichi"},
