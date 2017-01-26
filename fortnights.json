@@ -1,4 +1,14 @@
 {"fortnights":[
+		{"name": "",
+			"boss": "Heart Pirates",
+			"reddit": "[Heart](/qck) [Pirates](/str)",
+			"form": "",
+			"sheet": "",
+			"template":[
+				{"drop": ""},
+				{"drop": "Cola"}
+			]
+		},
 		{"name": "Blast! Whitebeard Pirates!",
 			"boss": "Whitebeard Pirates part 2",
 			"reddit": "[Whitebeard Pirates part 2](/psy)",
