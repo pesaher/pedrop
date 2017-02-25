@@ -1,4 +1,28 @@
 {"fortnights":[
+		{"name": "Olvia the Archaeologist",
+			"boss": "Nico Olvia",
+			"reddit": "[Nico Olvia](/psy)",
+			"form": "",
+			"sheet": "",
+			"template":[
+				{"drop": "Nico Olvia"},
+				{"drop": "Jaguar D. Saul"},
+				{"drop": "Nico Robin - Girl from Ohara"},
+				{"drop": "Heavenly Demon Doflamingo manual"},
+				{"drop": "Nico Robin - Flame of the Revolution manual"},
+				{"drop": "Sugar - Donquixote Pirates manual"},
+				{"drop": "Usopp - A Pirate Who Lives by His Code manual"},
+				{"drop": "Gecko Moria - Thriller Bark Ruler manual"},
+				{"drop": "Nico Robin - Girl from Ohara manual"},
+				{"drop": "Nojiko - Nami's Sister manual"},
+				{"drop": "Zambai manual"},
+				{"drop": "Big Bun manual"},
+				{"drop": "Yellow Treasure Turtle"},
+				{"drop": "Yellow Daimyo Turtle"},
+				{"drop": "Yellow Jeweled Porc"},
+				{"drop": "Cola"}
+			]
+		},
 		{"name": "Charmed?! Queen of Kamabakka!",
 			"boss": "Kamabakka",
 			"reddit": "[Kamabakka](/qck)",
