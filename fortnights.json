@@ -1,4 +1,28 @@
 {"fortnights":[
+		{"name": "Rumbar Pirates!",
+			"boss": "Rumbar Pirates",
+			"reddit": "[Rumbar Pirates](/psy)",
+			"form": "",
+			"sheet": "https://docs.google.com/spreadsheets/d/1Aww9KGKjgKHZf2YqW1LyEfhPEvizoSS4_BBxHZKh5CM/edit#gid=1494988298",
+			"template":[
+				{"drop": "Yorki"},
+				{"drop": "Brook - Rumbar Pirates"},
+				{"drop": "Laboon - Rumbar Pirates"},
+				{"drop": "Donquixote Rocinante manual"},
+				{"drop": "Dellinger - Donquixote Pirates manual"},
+				{"drop": "Blue Gilly - Jiaokungdo Fighter manual"},
+				{"drop": "Inazuma - Revolutionary Army manual"},
+				{"drop": "Brook - Straw Hat Pirates manual"},
+				{"drop": "Kaku: Six Powers Cipher Pol No. 9 manual"},
+				{"drop": "Gyaro manual"},
+				{"drop": "Laboon - Rumbar Pirates manual"},
+				{"drop": "Demolisher Gunner manual"},
+				{"drop": "Yellow Treasure Turtle"},
+				{"drop": "Yellow Daimyo Turtle"},
+				{"drop": "Yellow Jeweled Porc"},
+				{"drop": "Cola"}
+			]
+		},
 		{"name": "Spy Assassins CP9",
 			"boss": "CP9",
 			"reddit": "[CP9](/str)",
