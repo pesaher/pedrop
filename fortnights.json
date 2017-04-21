@@ -5,6 +5,25 @@
 			"form": "https://docs.google.com/forms/d/e/1FAIpQLScXdE-f2GBTBZrqZxxB8aeK6apv33GRA3xLWUEtj_tippl4QA/viewform?usp=sf_link",
 			"sheet": "https://docs.google.com/spreadsheets/d/1Aww9KGKjgKHZf2YqW1LyEfhPEvizoSS4_BBxHZKh5CM/edit#gid=2053540713",
 			"template":[
+				{"Koala - Fishman Karate Assistant Instructor"},
+				{"Hack - Fishman Karate Instructor"},
+				{"Man-Eating Bartolomeo manual"},
+				{"Hajrudin - Pirate Mercenary manual"},
+				{"Kyros - Ex-Riku Royal Army Commander manual"},
+				{"Jabra - CP9’s Strongest manual"},
+				{"Saint Shalria manual"},
+				{"Macro manual"},
+				{"Eustass Kid - Supernova manual"},
+				{"Blueno: Six Powers Cipher Pol No. 9 manual"},
+				{"Kaya - A rich young girl from Syrup Village manual"}
+			]
+		},
+		{"name": "Out for Revenge! World Pirates!",
+			"boss": "World Pirates",
+			"reddit": "[World Pirates](/dex)",
+			"form": "https://docs.google.com/forms/d/e/1FAIpQLScXdE-f2GBTBZrqZxxB8aeK6apv33GRA3xLWUEtj_tippl4QA/viewform?usp=sf_link",
+			"sheet": "https://docs.google.com/spreadsheets/d/1Aww9KGKjgKHZf2YqW1LyEfhPEvizoSS4_BBxHZKh5CM/edit#gid=2053540713",
+			"template":[
 				{"drop": "Gairam - World Pirates"},
 				{"drop": "Sebastian - World Pirates"},
 				{"drop": "Nightin - World Pirates"},
