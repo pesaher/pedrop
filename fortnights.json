@@ -5,17 +5,17 @@
 			"form": "https://docs.google.com/forms/d/e/1FAIpQLSfjB3SSaLE0FAjXRRLCO63E-_yMG3QHT_NmGweQZzPDimGg8w/viewform?usp=sf_link",
 			"sheet": "https://docs.google.com/spreadsheets/d/1Aww9KGKjgKHZf2YqW1LyEfhPEvizoSS4_BBxHZKh5CM/edit#gid=1037960291",
 			"template":[
-				{"Koala - Fishman Karate Assistant Instructor"},
-				{"Hack - Fishman Karate Instructor"},
-				{"Man-Eating Bartolomeo manual"},
-				{"Hajrudin - Pirate Mercenary manual"},
-				{"Kyros - Ex-Riku Royal Army Commander manual"},
-				{"Jabra - CP9’s Strongest manual"},
-				{"Saint Shalria manual"},
-				{"Macro manual"},
-				{"Eustass Kid - Supernova manual"},
-				{"Blueno: Six Powers Cipher Pol No. 9 manual"},
-				{"Kaya - A rich young girl from Syrup Village manual"}
+				{"drop": "Koala - Fishman Karate Assistant Instructor"},
+				{"drop": "Hack - Fishman Karate Instructor"},
+				{"drop": "Man-Eating Bartolomeo manual"},
+				{"drop": "Hajrudin - Pirate Mercenary manual"},
+				{"drop": "Kyros - Ex-Riku Royal Army Commander manual"},
+				{"drop": "Jabra - CP9’s Strongest manual"},
+				{"drop": "Saint Shalria manual"},
+				{"drop": "Macro manual"},
+				{"drop": "Eustass Kid - Supernova manual"},
+				{"drop": "Blueno: Six Powers Cipher Pol No. 9 manual"},
+				{"drop": "Kaya - A rich young girl from Syrup Village manual"}
 			]
 		},
 		{"name": "Out for Revenge! World Pirates!",
