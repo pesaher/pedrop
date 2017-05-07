@@ -1,4 +1,24 @@
 {"fortnights":[
+		{"name": "Assemble! Whitebeard Pirate Crew!",
+			"boss": "Whitebeard Pirates part 3",
+			"reddit": "[Whitebeard Pirates part 3](/qck)",
+			"form": "https://docs.google.com/forms/d/e/1FAIpQLSf4o5eCDew_Z74rsGWcJoAIcLe-NBcen1HSe2Z1majseGFddQ/viewform?usp=sf_link",
+			"sheet": "https://docs.google.com/spreadsheets/d/1Aww9KGKjgKHZf2YqW1LyEfhPEvizoSS4_BBxHZKh5CM/edit#gid=91786716",
+			"template":[
+				{"drop": "Maelstrom Spider Squard, Subordinates of the Whitebeard Pirates"},
+				{"drop": "DeCalvan Brothers, Subordinates of the Whitebeard Pirates"},
+				{"drop": "Ice Witch Whitey Bay, Subordinates of the Whitebeard Pirates"},
+				{"drop": "Sabo - Revolutionary Army manual"},
+				{"drop": "Leo Tontatta - Corps Leader manual"},
+				{"drop": "Mansherry - Tontatta Princess manual"},
+				{"drop": "Trafalgar Law - Supernova manual"},
+				{"drop": "Pacifista PX-4 manual"},
+				{"drop": "Sentomaru - Marine Science Unit Commander manual"},
+				{"drop": "Kaku - CP9's Strongest manual"},
+				{"drop": "Oimo manual"},
+				{"drop": "Bellmere - Nami and Nojiko's Mother manual"}
+			]
+		},
 		{"name": "Uncover the Truth! Revolutionary Army Koala and Hack",
 			"boss": "Revolutionary Army",
 			"reddit": "[Revolutionary Army](/str)",
