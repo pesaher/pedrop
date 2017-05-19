@@ -1,4 +1,24 @@
 {"fortnights":[
+		{"name": "Donquixote Family's Kids!!",
+			"boss": "Donquixote Family's Kids",
+			"reddit": "[Donquixote Family's Kids](/psy)",
+			"form": "https://docs.google.com/forms/d/e/1FAIpQLSeS66RjxthD4WtH0MJ92-Zh8ImwFZ401vzNHMdfL4koQF3uug/viewform?usp=sf_link",
+			"sheet": "https://docs.google.com/spreadsheets/d/1Aww9KGKjgKHZf2YqW1LyEfhPEvizoSS4_BBxHZKh5CM/edit#gid=1810122996",
+			"template":[
+				{"drop": "Baby 5, Girl of Spider Miles"},
+				{"drop": "Buffalo, Member of Donquixote Family"},
+				{"drop": "Trafalgar Law, Boy of Spider Miles"},
+				{"drop": "Trafalgar Law - Warlord of the Sea manual"},
+				{"drop": "Don Sai - Kano Kingdom Gang manual"},
+				{"drop": "Dagama - Prodence Kingdom Tactician manual"},
+				{"drop": "Gloriosa manual"},
+				{"drop": "Kumadori - CP9’s Strongest manual"},
+				{"drop": "Kashii manual"},
+				{"drop": "Saint Charlos manual"},
+				{"drop": "Pell - The guardian falcon of Alabasta manual"},
+				{"drop": "Marco the Phoenix manual"}
+			]
+		},
 		{"name": "Assemble! Whitebeard Pirate Crew!",
 			"boss": "Whitebeard Pirates part 3",
 			"reddit": "[Whitebeard Pirates part 3](/qck)",
