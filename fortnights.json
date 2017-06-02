@@ -1,4 +1,28 @@
 {"fortnights":[
+		{"name": "Mr. 3 and Buggy's Operation Escape!",
+			"boss": "Escapee Mr. 3",
+			"reddit": "[Escapee Mr. 3](/int)",
+			"form": "https://docs.google.com/forms/d/e/1FAIpQLSfSFOFa4m33rCCeFKZwl0nVEgBgcmAm0rEUqO2dS3NdxhV3_w/viewform?usp=sf_link",
+			"sheet": "https://docs.google.com/spreadsheets/d/1Aww9KGKjgKHZf2YqW1LyEfhPEvizoSS4_BBxHZKh5CM/edit#gid=1967426305",
+			"template":[
+				{"drop": "Prison Escapee Galdino"},
+				{"drop": "Inmate Buggy"},
+				{"drop": "Minorhinoceros"},
+				{"drop": "Minokoala"},
+				{"drop": "Blugori"},
+				{"drop": "Minotaur"},
+				{"drop": "Minozebra"},
+				{"drop": "Hawk Eyes Mihawk - World's Strongest Swordsman manual"},
+				{"drop": "Ideo - Destruction Cannon manual"},
+				{"drop": "Suleiman the Beheader manual"},
+				{"drop": "Marguerite - Kuja Warrior manual"},
+				{"drop": "Boa Sandersonia - Kuja Pirates manual"},
+				{"drop": "Kalifa - CP9’s Strongest manual"},
+				{"drop": "Usopp - Usopp Golden Pound manual"},
+				{"drop": "Mr. 3 - Extra Special Candelabra manual"},
+				{"drop": "Fukuro: Six Powers - Cipher Pol No. 9 manual"}
+			]
+		},
 		{"name": "Donquixote Family's Kids!!",
 			"boss": "Donquixote Family's Kids",
 			"reddit": "[Donquixote Family's Kids](/psy)",
