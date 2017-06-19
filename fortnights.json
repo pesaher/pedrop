@@ -2,11 +2,21 @@
 		{"name": "Catch the Big Person! Tontatta Tribe",
 			"boss": "Tontatta Tribe",
 			"reddit": "[Tontatta Tribe](/dex)",
-			"form": "",
+			"form": "https://docs.google.com/forms/d/e/1FAIpQLSckHYUpBWgHfzxeolAR9ltcd07u3v3MLJZtUUlRg0Ra-56tjw/viewform?usp=sf_link",
 			"sheet": "https://docs.google.com/spreadsheets/d/1Aww9KGKjgKHZf2YqW1LyEfhPEvizoSS4_BBxHZKh5CM/edit#gid=1359757806",
 			"template":[
-				{"drop": ""},
-				{"drop": ""}
+				{"drop": "Leo, Tontatta Tribe - Tonta Corps"},
+				{"drop": "Wicka"},
+				{"drop": "Gancho"},
+				{"drop": "Issho manual"},
+				{"drop": "Orlumbus - Massacre Ruler manual"},
+				{"drop": "Elizabello II - King of Prodence manual"},
+				{"drop": "Boa Marigold - Kuja Pirates manual"},
+				{"drop": "Fukuro - CP9’s Strongest manual"},
+				{"drop": "Kumadori - CP9’s Strongest manual"},
+				{"drop": "Kumadori: Six Powers - Cipher Pol No. 9 manual"},
+				{"drop": "Monkey D. Luffy - Gear 2 / Monkey D. Luffy - Gum-Gum Elephant Gun manual"},
+				{"drop": "Chaka - The guardian jackal of Alabasta. manual"}
 			]
 		},
 		{"name": "Mr. 3 and Buggy's Operation Escape!",
