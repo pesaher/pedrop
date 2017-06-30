@@ -1,4 +1,25 @@
 {"fortnights":[
+		{"name": "Find the Beloved Prince?! Tontatta Tribe",
+			"boss": "Tontatta Tribe (Mansherry)",
+			"reddit": "[Tontatta Tribe (Mansherry)](/psy)",
+			"form": "https://docs.google.com/forms/d/e/1FAIpQLSdIbSamNpOPrbnFYUiLeHeQotQ7cQ26IHuMha5R2Uf1V_tQcg/viewform?usp=sf_link",
+			"sheet": "https://docs.google.com/spreadsheets/d/1Aww9KGKjgKHZf2YqW1LyEfhPEvizoSS4_BBxHZKh5CM/edit#gid=1978322704",
+			"template":[
+				{"drop": ""},
+				{"drop": ""},
+				{"drop": ""},
+				{"drop": ""},
+				{"drop": ""},
+				{"drop": ""},
+				{"drop": ""},
+				{"drop": ""},
+				{"drop": ""},
+				{"drop": ""},
+				{"drop": ""},
+				{"drop": ""},
+				{"drop": ""}
+			]
+		},
 		{"name": "Catch the Big Person! Tontatta Tribe",
 			"boss": "Tontatta Tribe (Leo)",
 			"reddit": "[Tontatta Tribe (Leo)](/dex)",
