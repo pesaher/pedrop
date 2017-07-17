@@ -1,4 +1,23 @@
 {"fortnights":[
+		{"name": "Pekoms and Baron Tamago's Retrieve the Candy!",
+			"boss": "Pekoms and Baron Tamago",
+			"reddit": "[Pekoms](/str) **and** [Baron Tamago](/int)",
+			"form": "https://docs.google.com/forms/d/e/1FAIpQLSepj-VYE1PhtHZpww5j0qe7ESa832TWCOJ6vcJ7ntfPrGn9kg/viewform?usp=sf_link",
+			"sheet": "https://docs.google.com/spreadsheets/d/1Aww9KGKjgKHZf2YqW1LyEfhPEvizoSS4_BBxHZKh5CM/edit#gid=1924317027",
+			"template":[
+				{"drop": "Pekoms"},
+				{"drop": "Baron Tamago"},
+				{"drop": "White Knight Cavendish manual"},
+				{"drop": "Twin-Gauntlet Kingdew manual"},
+				{"drop": "Blenheim of the Cutlass manual"},
+				{"drop": "Minozebra manual"},
+				{"drop": "Under Warden Hannyabal - Undersea Prison, Impel Down manual"},
+				{"drop": "Roronoa Zoro - Ashura Ichibugin/Roronoa Zoro - Bird Dance manual"},
+				{"drop": "Vergo - Donquixote Pirates manual"},
+				{"drop": "Kaku: Beastman - Ox-Ox Fruit, Model: Giraffe manual"},
+				{"drop": "Hiking Bear manual"}
+			]
+		},
 		{"name": "Find the Beloved Prince?! Tontatta Tribe",
 			"boss": "Tontatta Tribe (Mansherry)",
 			"reddit": "[Tontatta Tribe (Mansherry)](/psy)",
