@@ -1,4 +1,23 @@
 {"fortnights":[
+		{"name": "Smokey and the Captain!",
+			"boss": "Swapped Smoker and Tashigi",
+			"reddit": "**Swapped** [Smoker](/qck) **and** [Tashigi](/dex)",
+			"form": "https://docs.google.com/forms/d/e/1FAIpQLSdrvMfu3bFKh7eZVyssNxvCS8_xebC8hOiu2G_S9wiykg25oQ/viewform?usp=sf_link",
+			"sheet": "https://docs.google.com/spreadsheets/d/1Aww9KGKjgKHZf2YqW1LyEfhPEvizoSS4_BBxHZKh5CM/edit#gid=750544786",
+			"template":[
+				{"drop": "Tashigi Shambles"},
+				{"drop": "Smoker Shambles"},
+				{"drop": "Kuzan manual"},
+				{"drop": "Smoker - G-5 Vice Admiral manual"},
+				{"drop": "Shark-Slicer Bastille - Naval HQ Vice Admiral manual"},
+				{"drop": "Baby 5 - Donquixote Pirates manual"},
+				{"drop": "Master Caesar manual"},
+				{"drop": "Chief Warden Magellan - Undersea Prison, Impel Down manual"},
+				{"drop": "Nami - Thunder-Breed Tempo manual"},
+				{"drop": "Lucci: Beastman - Cat-Cat Fruit, Model: Leopard manual"},
+				{"drop": "Flintlock Pistols Izo manual"}
+			]
+		},
 		{"name": "Strong for your Happiness! Soldier and Rebecca",
 			"boss": "Soldier and Rebecca",
 			"reddit": "[Soldier](/qck) **and** [Rebecca](/psy)",
