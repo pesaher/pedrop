@@ -1,4 +1,27 @@
 {"fortnights":[
+		{"name": "Summer Paradise 2 Swimsuit Violet",
+			"boss": "Swimsuit Violet",
+			"reddit": "[Swimsuit Violet](/qck)",
+			"form": "https://docs.google.com/forms/d/e/1FAIpQLSfxIP9aNwTw4Q1dx3B59OpV9Ht3fFZvZ-VdSlBJsNEUBb77_Q/viewform?usp=sf_link",
+			"sheet": "https://docs.google.com/spreadsheets/d/1_c2LtgiQG1PJnhuubbDnBbnahajD1acLvi7Ein0_4JE/edit#gid=319709875",
+			"template":[
+				{"drop": "Ice Cream-Loving Violet"},
+				{"drop": "Summer Luffy"},
+				{"drop": "Cotton Candy"}
+			]
+		},
+		{"name": "Summer Paradise 2 Swimsuit Bonney",
+			"boss": "Swimsuit Bonney",
+			"reddit": "[Swimsuit Bonney](/str)",
+			"form": "https://docs.google.com/forms/d/e/1FAIpQLSeZfvCSoho0RXvAQbHUPe8D3buDhXHI5rxSN4JxS-gmIYjczg/viewform?usp=sf_link",
+			"sheet": "https://docs.google.com/spreadsheets/d/1_c2LtgiQG1PJnhuubbDnBbnahajD1acLvi7Ein0_4JE/edit#gid=1737269562",
+			"template":[
+				{"drop": "Ice Cream-Loving Bonney"},
+				{"drop": "Summer Luffy"},
+				{"drop": "Iron-Mace Alvida"},
+				{"drop": "Cotton Candy"}
+			]
+		},
 		{"name": "Smokey and the Captain!",
 			"boss": "Swapped Smoker and Tashigi",
 			"reddit": "**Swapped** [Smoker](/qck) **and** [Tashigi](/dex)",
