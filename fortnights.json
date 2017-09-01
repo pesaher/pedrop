@@ -1,4 +1,24 @@
 {"fortnights":[
+		{"name": "Intense Combat! Chin Jao Family!!",
+			"boss": "Chin Jao Family",
+			"reddit": "[Chin Jao Family](/qck)",
+			"form": "https://docs.google.com/forms/d/e/1FAIpQLSe39sVSb9_hzKMlWtd_HaYIyt6yx_4xoYe0lqyONWJn0FpRUA/viewform?usp=sf_link",
+			"sheet": "https://docs.google.com/spreadsheets/d/1_c2LtgiQG1PJnhuubbDnBbnahajD1acLvi7Ein0_4JE/edit#gid=2085568536",
+			"template":[
+				{"drop": "Sai"},
+				{"drop": "Boo"},
+				{"drop": "Jean Ango"},
+				{"drop": "Borsalino manual"},
+				{"drop": "Supersonic Van Ogre manual"},
+				{"drop": "Demon Sheriff Lafitte manual"},
+				{"drop": "Dracule Mihawk - Hawk-Eye manual"},
+				{"drop": "Yamakaji manual"},
+				{"drop": "Sugar - Donquixote Pirates manual"},
+				{"drop": "Giolla - Donquixote Pirates manual"},
+				{"drop": "Flower Sword Vista manual"},
+				{"drop": "Cerberus manual"}
+			]
+		},
 		{"name": "Overlord's Feast",
 			"boss": "Kimono Crocodile",
 			"reddit": "[Kimono Crocodile](/str)",
