@@ -1,4 +1,23 @@
 {"fortnights":[
+		{"name": "Passionate Exile!",
+			"boss": "Violet",
+			"reddit": "[Violet](/dex)",
+			"form": "https://docs.google.com/forms/d/e/1FAIpQLSecQLjdooFFDpXjQM9LSLF_4-_bZHafJmYiEnPrw_kb-l3zCw/viewform?usp=sf_link",
+			"sheet": "https://docs.google.com/spreadsheets/d/1_c2LtgiQG1PJnhuubbDnBbnahajD1acLvi7Ein0_4JE/edit#gid=2136069742",
+			"template":[
+				{"drop": "Violet"},
+				{"drop": "Sanji"},
+				{"drop": "Knight of the Sea Jinbe - Ex-Royal Seven Warlords of the Sea manual"},
+				{"drop": "Death God Doc Q manual"},
+				{"drop": "Garp the Fist - Navy HQ Vice Admiral manual"},
+				{"drop": "Navy HQ Vice Admiral Onigumo - Eight-Swords Style Fighter manual"},
+				{"drop": "Lao G. - Donquixote Pirates manual"},
+				{"drop": "Trebol - Donquixote Pirates manual"},
+				{"drop": "Blamenco the Mallet manual"},
+				{"drop": "Smoker - Naval HQ Commodore manual"},
+				{"drop": "Bear Skin Rug manual"}
+			]
+		},
 		{"name": "Intense Combat! Chin Jao Family!!",
 			"boss": "Chin Jao Family",
 			"reddit": "[Chin Jao Family](/qck)",
