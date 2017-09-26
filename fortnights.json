@@ -1,4 +1,25 @@
 {"fortnights":[
+		{"name": "Sentomaru Guard of the New World!",
+			"boss": "Sentomaru",
+			"reddit": "[Sentomaru](/str)",
+			"form": "https://docs.google.com/forms/d/e/1FAIpQLSe0fvTjzpE5HLvHdwqRbHnHa5a3dIrVHWWudGtk317ImkpbfQ/viewform?usp=sf_link",
+			"sheet": "https://docs.google.com/spreadsheets/d/1_c2LtgiQG1PJnhuubbDnBbnahajD1acLvi7Ein0_4JE/edit#gid=864061104",
+			"template":[
+				{"drop": "Sentomaru - Navy HQ"},
+				{"drop": "Lip \"Service\" Doughty"},
+				{"drop": "\"Gashed\" Albion"},
+				{"drop": "Pacifista PX-5"},
+				{"drop": "Blackbeard - Blackbeard Pirate Captain manual"},
+				{"drop": "Great Advisor Tsuru - Navy HQ Vice Admiral manual"},
+				{"drop": "Navy HQ Vice Admiral Momonga - Monster-Slaying Master General manual"},
+				{"drop": "Kizaru - Naval HQ Admiral manual"},
+				{"drop": "Roronoa Zoro - Master Swordsman Disciple manual"},
+				{"drop": "Brook - Bone to Be Wild manual"},
+				{"drop": "Basil Hawkins the Magician manual"},
+				{"drop": "Kikyo manual"},
+				{"drop": "Lip \"Service\" Doughty manual"}
+			]
+		},
 		{"name": "Passionate Exile!",
 			"boss": "Violet",
 			"reddit": "[Violet](/dex)",
