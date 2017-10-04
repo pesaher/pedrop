@@ -1,0 +1,206 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<title>Drop data gathering form creator</title>
+		<script src="https://code.jquery.com/jquery-3.0.0.min.js" type="text/javascript"></script>
+		<script src="javascript/characterReader.js" type="text/javascript"></script>
+		<script src="javascript/urlDecoder.js" type="text/javascript"></script>
+	</head>
+	<body>
+		<pre>Hello everyone! Like every week, [we](http://i.imgur.com/2PleUXL.png) are gathering drop data for the current fornight<script>
+				var thisWeek = 0;
+				var pastWeek = 0;
+				var friezaWeek = 0;
+				var frieza = -1;
+				for(var i = 0; i < Url.get.selected.length; i++)
+					if(Url.get.selected[i] < fortnights.fortnights.length){
+						if(fortnights.fortnights[Url.get.selected[i]].boss == "Frieza"){
+							friezaWeek = 1;
+							frieza = i;
+						}
+						thisWeek++;
+					}else{
+						if(fortnights.fortnights[Url.get.selected[i] - fortnights.fortnights.length].boss == "Frieza"){
+							friezaWeek = 2;
+							frieza = i;
+						}
+						pastWeek++;
+					}
+				if((thisWeek > 1 && friezaWeek != 1) || thisWeek > 2)
+					document.write("s");
+				if(friezaWeek == 1 && frieza == 0){
+					document.write(": " + fortnights.fortnights[Url.get.selected[1]].reddit);
+					for(var i = 2; i < thisWeek - 1; i++)
+						document.write(", " + fortnights.fortnights[Url.get.selected[i]].reddit);
+					if(thisWeek > 2)
+						document.write(" and " + fortnights.fortnights[Url.get.selected[thisWeek - 1]].reddit);
+				}else if(friezaWeek == 1 && frieza == thisWeek - 1){
+					document.write(": " + fortnights.fortnights[Url.get.selected[0]].reddit);
+					for(var i = 1; i < thisWeek - 2; i++)
+						document.write(", " + fortnights.fortnights[Url.get.selected[i]].reddit);
+					if(thisWeek > 2)
+						document.write(" and " + fortnights.fortnights[Url.get.selected[thisWeek - 2]].reddit);
+				}else{
+					document.write(": " + fortnights.fortnights[Url.get.selected[0]].reddit);
+					for(var i = 1; i < thisWeek - 1; i++)
+						if(i != frieza)
+							document.write(", " + fortnights.fortnights[Url.get.selected[i]].reddit);
+					if((thisWeek > 1 && friezaWeek != 1) || thisWeek > 2)
+						document.write(" and " + fortnights.fortnights[Url.get.selected[thisWeek - 1]].reddit);
+				}
+			</script>. Also we would like to kindly remind to the users who have been saving their runs of <script>
+				if(friezaWeek == 2 && frieza == thisWeek){
+					document.write(fortnights.fortnights[Url.get.selected[thisWeek + 1] - fortnights.fortnights.length].reddit);
+				for(var i = thisWeek + 2; i < thisWeek + pastWeek - 1; i++)
+					document.write(", " + fortnights.fortnights[Url.get.selected[i] - fortnights.fortnights.length].reddit);
+				if(pastWeek > 2)
+					document.write(" and " + fortnights.fortnights[Url.get.selected[thisWeek + pastWeek - 1] - fortnights.fortnights.length].reddit);
+				}else if(friezaWeek == 2 && frieza == thisWeek + pastWeek - 1){
+					document.write(fortnights.fortnights[Url.get.selected[thisWeek] - fortnights.fortnights.length].reddit);
+				for(var i = thisWeek + 1; i < thisWeek + pastWeek - 2; i++)
+					document.write(", " + fortnights.fortnights[Url.get.selected[i] - fortnights.fortnights.length].reddit);
+				if(pastWeek > 2)
+					document.write(" and " + fortnights.fortnights[Url.get.selected[thisWeek + pastWeek - 2] - fortnights.fortnights.length].reddit);
+				}else{
+					document.write(fortnights.fortnights[Url.get.selected[thisWeek] - fortnights.fortnights.length].reddit);
+				for(var i = thisWeek + 1; i < thisWeek + pastWeek - 1; i++)
+					if(i != frieza)
+						document.write(", " + fortnights.fortnights[Url.get.selected[i] - fortnights.fortnights.length].reddit);
+				if((pastWeek > 1 && friezaWeek != 2) || pastWeek > 2)
+					document.write(" and " + fortnights.fortnights[Url.get.selected[thisWeek + pastWeek - 1] - fortnights.fortnights.length].reddit);
+				}
+			</script> to please upload them so we have more data the next time these fortnights come. We would like to get as many different samples as possible, to get data as much accurate as possible. Remember to not only submit your best runs, but all of them.
+
+The Coliseum data collecting will be divided between previous battles (stages 1-4 for Chaos, for example) and boss battle (stage 5 for Chaos, for example). The boss battle will have chaos only version (e.g: [Urouge](/str)) and non-chaos bosses (e.g: [Rebecca](/qck) and [Lucky Roux](/psy)). Additionally it will be divided in Exhibition, Underground and Chaos difficulty.
+
+As all Coliseum batches have the same kind of drops (Turtle, CC, Manual, Forbidden Tome and Boss) we will run and collect all the Coliseum data in a single datasheet. In the event that during the next batches we see differences between them, we will create new datasheets for each batch.<script>
+				if(friezaWeek > 0){
+					if(frieza >= thisWeek)
+						document.write("\n\n" + fortnights.fortnights[Url.get.selected[frieza] - fortnights.fortnights.length].template[0].message);
+					else
+						document.write("\n\n" + fortnights.fortnights[Url.get.selected[frieza]].template[0].message);
+				}
+			</script>
+
+***
+
+You have three ways to submit your results, please use whichever feels best for you.
+
+**Remember:** only use one of these methods per group of runs submitted, to avoid repeated results.
+
+1. **Filling a form:** we have the following forms for each fortnight:
+	* **Coliseum**: [Coliseum's form](https://docs.google.com/forms/d/e/1FAIpQLSfnMqsBhW3-d3da158ePvLiZ_D_6lYHGGt4jX15wiSV-vWrjQ/viewform)
+<script>
+				if(friezaWeek == 1)
+					document.write("	* " + fortnights.fortnights[Url.get.selected[frieza]].reddit + ": [" + fortnights.fortnights[Url.get.selected[frieza]].boss + "' form](" + fortnights.fortnights[Url.get.selected[frieza]].form + ")\n");
+				else if(friezaWeek == 2)
+					document.write("	* " + fortnights.fortnights[Url.get.selected[frieza] - fortnights.fortnights.length].reddit + ": [" + fortnights.fortnights[Url.get.selected[frieza] - fortnights.fortnights.length].boss + "' form](" + fortnights.fortnights[Url.get.selected[frieza] - fortnights.fortnights.length].form + ")\n");
+				for(var i = 0; i < thisWeek; i++)
+					if(i != frieza){
+						if(fortnights.fortnights[Url.get.selected[i]].boss.slice(-1) == "s")
+							document.write("	* " + fortnights.fortnights[Url.get.selected[i]].reddit + ": [" + fortnights.fortnights[Url.get.selected[i]].boss + "' form](" + fortnights.fortnights[Url.get.selected[i]].form + ")\n");
+						else
+							document.write("	* " + fortnights.fortnights[Url.get.selected[i]].reddit + ": [" + fortnights.fortnights[Url.get.selected[i]].boss + "'s form](" + fortnights.fortnights[Url.get.selected[i]].form + ")\n");
+					}
+				for(var i = thisWeek; i < thisWeek + pastWeek; i++)
+					if(i != frieza){
+						if(fortnights.fortnights[Url.get.selected[i] - fortnights.fortnights.length].boss.slice(-1) == "s")
+							document.write("	* " + fortnights.fortnights[Url.get.selected[i] - fortnights.fortnights.length].reddit + ": [" + fortnights.fortnights[Url.get.selected[i] - fortnights.fortnights.length].boss + "' form](" + fortnights.fortnights[Url.get.selected[i] - fortnights.fortnights.length].form + ")\n");
+						else
+							document.write("	* " + fortnights.fortnights[Url.get.selected[i] - fortnights.fortnights.length].reddit + ": [" + fortnights.fortnights[Url.get.selected[i] - fortnights.fortnights.length].boss + "'s form](" + fortnights.fortnights[Url.get.selected[i] - fortnights.fortnights.length].form + ")\n");
+					}
+			</script>
+	If you submit your runs using these, the data will be added automatically to the spreadsheet, without further intervention from us.
+
+2. **Commenting on this post:** using one of the following templates, just comment your runs so that we can add the data manually to the samples:
+
+	### **Coliseum**
+
+	    - **Difficulty (including boss name):** 
+	    - **Number of runs:** 
+	    - **Boss:** 
+	    - **Boss Manual:** 
+	    - **Forbidden Tome:** 
+	    - **Teen Turtle:** 
+	    - **Cotton Candy:** 
+	    - **Cola:** 
+
+	***
+<script>
+				for(var i = 0; i < thisWeek; i++)
+					if(i != frieza){
+						document.write("\n	### " + fortnights.fortnights[Url.get.selected[i]].reddit + "\n\n");
+						document.write("	    - **Difficulty:** \n	    - **Number of runs:** \n");
+						for(var j = 0; j < fortnights.fortnights[Url.get.selected[i]].template.length; j++)
+							document.write("	    - **" + fortnights.fortnights[Url.get.selected[i]].template[j].drop + ":** \n");
+						document.write("\n	***\n");
+					}
+				for(var i = thisWeek; i < thisWeek + pastWeek; i++)
+					if(i != frieza){
+						document.write("\n	### " + fortnights.fortnights[Url.get.selected[i] - fortnights.fortnights.length].reddit + "\n\n");
+						document.write("	    - **Difficulty:** \n	    - **Number of runs:** \n");
+						for(var j = 0; j < fortnights.fortnights[Url.get.selected[i] - fortnights.fortnights.length].template.length; j++)
+							document.write("	    - **" + fortnights.fortnights[Url.get.selected[i] - fortnights.fortnights.length].template[j].drop + ":** \n");
+						document.write("\n	***\n");
+					}
+				if(friezaWeek == 1){
+					document.write("\n	### " + fortnights.fortnights[Url.get.selected[frieza]].reddit + "\n\n");
+					document.write("	" + fortnights.fortnights[Url.get.selected[frieza]].template[1].message + "\n");
+					document.write("\n	***\n");
+				}else if(friezaWeek == 2){
+					document.write("\n	### " + fortnights.fortnights[Url.get.selected[frieza] - fortnights.fortnights.length].reddit + "\n\n");
+					document.write("	" + fortnights.fortnights[Url.get.selected[frieza] - fortnights.fortnights.length].template[1].message + "\n");
+					document.write("\n	***\n");
+				}
+			</script>
+3. **Submitting a screenshot:** you can always PM either [pesaher](/message/compose/?to=pesaher) or [litwi](/message/compose/?to=litwi) with screenshots or your results in any format you want.
+
+***
+
+The results of the current fortnights, as always, will be posted here:
+
+* **Coliseum**: [Coliseum's results](https://docs.google.com/spreadsheets/d/18z7UFIGCw-Otj0vIX2zWaOX1Nv2LIrEVP852pvPQHf8/edit#gid=1603796994)
+<script>
+				if(friezaWeek == 1)
+						document.write("* " + fortnights.fortnights[Url.get.selected[frieza]].reddit + ": [" + fortnights.fortnights[Url.get.selected[frieza]].boss + "'s results](" + fortnights.fortnights[Url.get.selected[frieza]].sheet + ")\n");
+				for(var i = 0; i < thisWeek; i++)
+					if(i != frieza){
+						if(fortnights.fortnights[Url.get.selected[i]].boss.slice(-1) == "s")
+							document.write("* " + fortnights.fortnights[Url.get.selected[i]].reddit + ": [" + fortnights.fortnights[Url.get.selected[i]].boss + "' results](" + fortnights.fortnights[Url.get.selected[i]].sheet + ")\n");
+						else
+							document.write("* " + fortnights.fortnights[Url.get.selected[i]].reddit + ": [" + fortnights.fortnights[Url.get.selected[i]].boss + "'s results](" + fortnights.fortnights[Url.get.selected[i]].sheet + ")\n");
+					}
+			</script>
+The results of the leaving fortnights can be seen here:
+
+<script>
+				if(friezaWeek == 2)
+						document.write("* " + fortnights.fortnights[Url.get.selected[frieza] - fortnights.fortnights.length].reddit + ": [" + fortnights.fortnights[Url.get.selected[frieza] - fortnights.fortnights.length].boss + "'s results](" + fortnights.fortnights[Url.get.selected[frieza] - fortnights.fortnights.length].sheet + ")\n");
+				for(var i = thisWeek; i < thisWeek + pastWeek; i++)
+					if(i != frieza){
+						if(fortnights.fortnights[Url.get.selected[i] - fortnights.fortnights.length].boss.slice(-1) == "s")
+							document.write("* " + fortnights.fortnights[Url.get.selected[i] - fortnights.fortnights.length].reddit + ": [" + fortnights.fortnights[Url.get.selected[i] - fortnights.fortnights.length].boss + "' results](" + fortnights.fortnights[Url.get.selected[i] - fortnights.fortnights.length].sheet + ")\n");
+						else
+							document.write("* " + fortnights.fortnights[Url.get.selected[i] - fortnights.fortnights.length].reddit + ": [" + fortnights.fortnights[Url.get.selected[i] - fortnights.fortnights.length].boss + "'s results](" + fortnights.fortnights[Url.get.selected[i] - fortnights.fortnights.length].sheet + ")\n");
+					}
+			</script>
+Also, you can check all the data gathering threads, forms and results [here](https://www.reddit.com/r/OnePieceTC/wiki/datagathering) or selecting Resources -> Fortnight Drop Data in the menu.
+
+***
+
+**Some final notes:**
+
+* Guys, remember that we all have to do the 15 stamina run (Elite) of the fortnights at least once to get the gem if you haven't before. We don't get nearly enough 15 stamina runs submitted, if we all collaborate we can have a great data sample. Please, PLEASE, even just one submission per user for each difficulty is enough.
+
+* I'm sorry to have to say this, but [don't submit half-assed forms](https://s-media-cache-ak0.pinimg.com/736x/7a/83/fc/7a83fc66291bf4c3ec1a886e446b8332.jpg). We've seen some people are filling the first few fields (bosses and manuals) and leaving the rest (boosters and cola) blank, and this is messing up the statistics. We are removing all the answers that follow this pattern, and it hurts having to remove 70+ runs of each fortnight. Blank means you got 0, not that we don't take it into account. Please, fill all the fields unless you really got 0 of a certain character/manual.
+
+* Please, don't submit [Baccarat](/int), [Haruta](/int), [Wicca](/qck), [Buggy](/int) or [Jean Ango](/dex) runs, as the extra drop only messes with the statistics. If you do, don't count the extra drops.
+
+* "Double stamina, double rewards" runs must be counted as one run. Same for their drops, duplicating them doesn't make any sense.
+
+***
+
+Thank you all for your work, and enjoy this week of farming!</pre>
+	</body>
+</html>
