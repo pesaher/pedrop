@@ -1,4 +1,25 @@
 {"fortnights":[
+		{"name": "Launch!! Whitebeard Pirates! drop data gathering",
+			"boss": "Whitebeard Pirates (Haruta)",
+			"reddit": "[Haruta](/int)",
+			"form": "https://docs.google.com/forms/d/e/1FAIpQLSfQDgdyGZgf62Qp090FY9HHoFFQTNZTnm-zPw3x8TVCRG4fkg/viewform",
+			"sheet": "https://docs.google.com/spreadsheets/d/1_c2LtgiQG1PJnhuubbDnBbnahajD1acLvi7Ein0_4JE/edit#gid=956960768",
+			"template":[
+				{"drop": "Haruta, Whitebeard 12th Division Commander"},
+				{"drop": "Speed Jil, Whitebeard 14th Division Commander"},
+				{"drop": "Atmos, Whitebeard 13th Division Commander"},
+				{"drop": "Kingdew, Whitebeard 11th Division Commander"},
+				{"drop": "Donquixote Rocinante manual"},
+				{"drop": "Petty Officer Cobby - Hero of the Navy's Student manual"},
+				{"drop": "Sanji - Straw Hat pirates: Born Again manual"},
+				{"drop": "Tony Tony Chopper - Straw Hat Pirates: Born Again manual"},
+				{"drop": "Nico Robin - Flame of the Revolution manual"},
+				{"drop": "Mad Monk Urouge manual"},
+				{"drop": "Aokiji - Navy HQ Admiral manual"},
+				{"drop": "Gecko Moria - Thriller Bark Ruler manual"},
+				{"drop": "Usopp - Platanus Shuriken / Sogeking"}
+			]
+		},
 		{"name": "Sentomaru Guard of the New World!",
 			"boss": "Sentomaru",
 			"reddit": "[Sentomaru](/str)",
