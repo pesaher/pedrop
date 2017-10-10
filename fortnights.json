@@ -1,24 +1,5 @@
 {"fortnights":[
-		{"name": "Monster's Party: Sugar",
-			"boss": "HW Sugar",
-			"reddit": "[HW Sugar](/dex)",
-			"form": "https://docs.google.com/forms/d/e/1FAIpQLSfovD1d2MhSGZ8vBaAMWzykBLlxNu09UUPsjECBeNEqC_zcpA/viewform?usp=sf_link",
-			"sheet": "https://docs.google.com/spreadsheets/d/1_c2LtgiQG1PJnhuubbDnBbnahajD1acLvi7Ein0_4JE/edit#gid=602498007",
-			"template":[
-				{"drop": "Sugar, Little Succubus"},
-				{"drop": "Cotton Candy"},
-			]
-		},
-		{"name": "Monster's Party: Rebecca",
-			"boss": "HW Rebecca",
-			"reddit": "[HW Rebecca](/int)",
-			"form": "https://docs.google.com/forms/d/e/1FAIpQLSf9NX3BzwlKtx6nQ7NvKgJu8mByCHKNgAtqz64Nwusatmx2Fg/viewform?usp=sf_link",
-			"sheet": "https://docs.google.com/spreadsheets/d/1_c2LtgiQG1PJnhuubbDnBbnahajD1acLvi7Ein0_4JE/edit#gid=1125760429",
-			"template":[
-				{"drop": "Rebecca, Lovely Monster Cat"},
-				{"drop": "Cotton Candy"},
-			]
-		},
+		
 		{"name": "Rocky feast drop data gathering",
 			"boss": "Kimono Jinbe",
 			"reddit": "[Kimono Jinbe](/psy)",
