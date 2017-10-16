@@ -1,4 +1,24 @@
 {"fortnights":[
+		{"name": "Lightning Speed!",
+			"boss": "Kimono Robin",
+			"reddit": "[Kimono Robin](/int)",
+			"form": "https://docs.google.com/forms/d/e/1FAIpQLSewPY8J-Ko7Mq7COspvswYQdNCPamCM0H7wby8WTMqfEDvg2A/viewform?usp=sf_link",
+			"sheet": "https://docs.google.com/spreadsheets/d/1_c2LtgiQG1PJnhuubbDnBbnahajD1acLvi7Ein0_4JE/edit#gid=1930107364",
+			"template":[
+				{"drop": "Nico Robin Cien Fleur Wing: The Storm"},
+				{"drop": "Usopp Tabasco Star: The Storm"},
+				{"drop": "Tony Tony Chopper Heavy Gong: The Storm"},
+				{"drop": "Sanji Parage Shot: The Storm"},
+				{"drop": "Nico Robin - A Pirate Who Lives by His Code manual"},
+				{"drop": "Franky - A Pirate Who Lives by His Code manual"},
+				{"drop": "Rob Lucci: Six Powers - Cipher Pol No. 9 manual"},
+				{"drop": "Nico Robin - Straw Hat Pirate/ Nico Robin - Mil Fleurs Campo de Flores manual"},
+				{"drop": "One-Hit Namule manual"},
+				{"drop": "Bellmere - Nami and Nojiko's Mother manual"},
+				{"drop": "Yama manual"},
+				{"drop": "Gedatsu manual"}
+			]
+		},
 		{"name": "Monster's Party: Sugar",
 			"boss": "HW Sugar",
 			"reddit": "[HW Sugar](/dex)",
