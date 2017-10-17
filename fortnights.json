@@ -1,4 +1,24 @@
 {"fortnights":[
+		{"name": "Bandits! Dadan Family!!",
+			"boss": "Dadan",
+			"reddit": "[Dadan](/psy)",
+			"form": "https://docs.google.com/forms/d/e/1FAIpQLSdbWAK8oGlSbrOVAxG_h5Ti_mUvbmNmyWNo5n9uAusoqUFRKg/viewform?usp=sf_link",
+			"sheet": "https://docs.google.com/spreadsheets/d/1_c2LtgiQG1PJnhuubbDnBbnahajD1acLvi7Ein0_4JE/edit#gid=1964343211",
+			"template":[
+				{"drop": "Curly Dadan, Head of the Dadan Family"},
+				{"drop": "Dogra"},
+				{"drop": "Portgas D. Ace, Hidden Demon's Child"},
+				{"drop": "Sakazuki Manual"},
+				{"drop": "Nami, Reunion of the Straw Hat Pirates Manual"},
+				{"drop": "Franky, Reunion of the Straw Hat Pirates Manual"},
+				{"drop": "Sanji, Chef of Love Manual"},
+				{"drop": "Monkey D. Luffy, Crew's Promise: 3D2Y Manual"},
+				{"drop": "Bepo the Martial Artist Manual"},
+				{"drop": "Garp, Navy HQ Vice Admiral Manual"},
+				{"drop": "Doctor Hogback, Thriller Bark Demon Manual"},
+				{"drop": "Tony Tony Chopper - Heavy Gong / Tony Tony Chopper - Heavy Point Manual"}
+			]
+		},
 		{"name": "Lightning Speed!",
 			"boss": "Kimono Robin",
 			"reddit": "[Kimono Robin](/int)",
