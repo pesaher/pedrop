@@ -39,6 +39,16 @@
 				{"drop": "Gedatsu manual"}
 			]
 		},
+		{"name": "Monster's Party: Corazon",
+			"boss": "HW Corazon",
+			"reddit": "[HW Corazon](/psy)",
+			"form": "https://docs.google.com/forms/d/e/1FAIpQLSeK8JMRE6MrX08ZkNMBdRb6wfh-UGtXhXlMhFdXq4j1Ul4x-g/viewform?usp=sf_link",
+			"sheet": "https://docs.google.com/spreadsheets/d/1_c2LtgiQG1PJnhuubbDnBbnahajD1acLvi7Ein0_4JE/edit#gid=1346101660",
+			"template":[
+				{"drop": "Royal Vampire Corazon"},
+				{"drop": "Cotton Candy"}
+			]
+		},
 		{"name": "Monster's Party: Sugar",
 			"boss": "HW Sugar",
 			"reddit": "[HW Sugar](/dex)",
