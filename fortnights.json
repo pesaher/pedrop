@@ -1,4 +1,23 @@
 {"fortnights":[
+		{"name": "Fight for your Friends!",
+			"boss": "Elizabello",
+			"reddit": "[Elizabello](/str)",
+			"form": "https://docs.google.com/forms/d/e/1FAIpQLSfSsfe3jOsFbk0dPZnosvPh_ltwlT7Alsy0EE6jpTZR3IfdGw/viewform?usp=sf_link",
+			"sheet": "https://docs.google.com/spreadsheets/d/1_c2LtgiQG1PJnhuubbDnBbnahajD1acLvi7Ein0_4JE/edit#gid=1400393153",
+			"template":[
+				{"drop": "'The Fighting King' Elizabello II"},
+				{"drop": "Tactician Dagama"},
+				{"drop": "Roronoa Zoro - Straw Hat Pirates: Born Again Manual"},
+				{"drop": "Nico Robin - Straw Hat Pirates: Born Again Manual"},
+				{"drop": "Tony Tony Chopper: Monster Point - Straw Hat Pirates: Born Again Manual"},
+				{"drop": "Usopp - Hero Fighter of the Forest Manual"},
+				{"drop": "Machvise - Donquixote Pirates Manual"},
+				{"drop": "Trafalgar Law - ROOM Manual"},
+				{"drop": "Akainu - Navy HQ Admiral Manual"},
+				{"drop": "Absalom of the Graveyard - Thriller Bark Demon Manual"},
+				{"drop": "Nico Robin - Mil Fleurs Campo de Flores / Nico Robin - Straw Hat Pirate Manual"}
+			]
+		},
 		{"name": "Soul King!",
 			"boss": "Soul King",
 			"reddit": "[Soul King](/qck)",
