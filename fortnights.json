@@ -1,5 +1,24 @@
 {"fortnights":[
 		{"name": "Fight for your Friends!",
+			"boss": "Law&Monet",
+			"reddit": "[Law](/dex)&[Monet](/psy)",
+			"form": "https://docs.google.com/forms/d/e/1FAIpQLScAViNU1JPR86mDWgt1h4WpGdJVPveKRmuxn5AGgl6BPmn2ZA/viewform?usp=sf_link",
+			"sheet": "https://docs.google.com/spreadsheets/d/1_c2LtgiQG1PJnhuubbDnBbnahajD1acLvi7Ein0_4JE/edit#gid=1387828918",
+			"template":[
+				{"drop": "Trafalgar Law, Punk Hazard Resident"},
+				{"drop": "Monet, Snow-Snow Fruit Snow Woman"},
+				{"drop": "Captain Buggy"},
+				{"drop": "Dosun - Fish-Man District Spirit"},
+				{"drop": "Hyouzou - Fish-Man District Spirit"},
+				{"drop": "Brook - Song of Scratches Blizzard Slice/Brook - Strah Hat Pirates"},
+				{"drop": "Chopper Mask - Defender of Peace"},
+				{"drop": "Captain Kid"},
+				{"drop": "Violet Donquixote Pirates"},
+				{"drop": "Perona - Giant Ghost Princess"},
+				{"drop": "Curly Dadan"}
+			]
+		},
+		{"name": "Fight for your Friends!",
 			"boss": "Elizabello",
 			"reddit": "[Elizabello](/str)",
 			"form": "https://docs.google.com/forms/d/e/1FAIpQLSfSsfe3jOsFbk0dPZnosvPh_ltwlT7Alsy0EE6jpTZR3IfdGw/viewform?usp=sf_link",
