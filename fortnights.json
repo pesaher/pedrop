@@ -1,5 +1,26 @@
 {"fortnights":[
-		{"name": "Fight for your Friends!",
+		{"name": "Mermaid Under Siege: Shirahoshi",
+			"boss": "Shirahoshi",
+			"reddit": "[Shirahoshi](/int)",
+			"form": "https://docs.google.com/forms/d/e/1FAIpQLSfy2Y75Q-NWMZCjieMZZIpOqXN-KWWEUbsiuObyYCivhkn2yQ/viewform?usp=sf_link",
+			"sheet": "https://docs.google.com/spreadsheets/d/1_c2LtgiQG1PJnhuubbDnBbnahajD1acLvi7Ein0_4JE/edit#gid=2123598236",
+			"template":[
+				{"drop": "Shirahoshi"},
+				{"drop": "Ryuboshi"},
+				{"drop": "Manboshi"},
+				{"drop": "\"Warlord of the Sea\" Trafalgar Law - Joker-Tracking Heart"},
+				{"drop": "Trafalgar Law - Warlord of the Sea"},
+				{"drop": "Ikaros Much - Fish-Man District Spirit"},
+				{"drop": "Daruma - Fish-Man District Spirit"},
+				{"drop": "Franky - Franky Rocket Launcher / Franky - Straw Hat Pirates"},
+				{"drop": "Roar of the Sea Scratchmen Apoo"},
+				{"drop": "Abdullah and Jeet - Ex-Bounty Hunter"},
+				{"drop": "Diamante - Donquixote Pirates"}
+				{"drop": "Oars - Special Zombie Manual"}
+				{"drop": "Porchemy Manual"}
+			]
+		},
+		{"name": "Mystery of the Seven Warlods, Trafalgar Law!!",
 			"boss": "Law & Monet",
 			"reddit": "[Law](/dex)&[Monet](/psy)",
 			"form": "https://docs.google.com/forms/d/e/1FAIpQLScAViNU1JPR86mDWgt1h4WpGdJVPveKRmuxn5AGgl6BPmn2ZA/viewform?usp=sf_link",
