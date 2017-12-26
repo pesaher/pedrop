@@ -1,4 +1,24 @@
 {"fortnights":[
+		{"name": "Moving Darkness - Blackbeard Pirates",
+			"boss": "BB Pirates",
+			"reddit": "[BB Pirates](/psy)",
+			"form": "https://docs.google.com/forms/d/e/1FAIpQLSckL0HfYkdKEOwAuZo3nPGXx9MocyqR8LLBwYxBsmL1GZqV3w/viewform?usp=sf_link",
+			"sheet": "https://docs.google.com/spreadsheets/d/1_c2LtgiQG1PJnhuubbDnBbnahajD1acLvi7Ein0_4JE/edit#gid=1085059214",
+			"template":[
+				{"drop": "Laffitte, Blackbeard Pirates"},
+				{"drop": "Van Augur, Blackbeard Pirates"},
+				{"drop": "Doc Q, Blackbeard Pirates"},
+				{"drop": "Monkey D. Luffy - Straw Hat Pirates: Born Again / Monkey D. Luffy - Gear Forth"},
+				{"drop": "Vander Decken IX - Flying Pirates Captain"},
+				{"drop": "Funk Brothers - Mogaro Kingdom Assassin"},
+				{"drop": "Red Flag X Drake"},
+				{"drop": "Big Eater Jewelry Bonney"},
+				{"drop": "Dellinger - Donquixote Pirates"},
+				{"drop": "Gecko Moria - Shadows' Asgard"},
+				{"drop": "Zeo - Fish-Man District Spirit"},
+				{"drop": "Bluejam"}
+			]
+		},
 		{"name": "Mermaid Under Siege: Shirahoshi",
 			"boss": "Shirahoshi",
 			"reddit": "[Shirahoshi](/int)",
