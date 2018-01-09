@@ -1,4 +1,24 @@
 {"fortnights":[
+		{"name": "Revenge is Nigh! The New Fish-Man Pirates",
+			"boss": "New Fishman Pirates",
+			"reddit": "[New Fishman Pirates](/qck)",
+			"form": "https://docs.google.com/forms/d/e/1FAIpQLSe7xmIPzgdAqMQYKr9m9436vxfeXI5WHolwwl_5kUwnDQV5og/viewform?usp=sf_link",
+			"sheet": "https://docs.google.com/spreadsheets/d/1_c2LtgiQG1PJnhuubbDnBbnahajD1acLvi7Ein0_4JE/edit#gid=1112283684",
+			"template":[
+				{"drop": "Hyouzou, Fishman Pirates Bodyguard"},
+				{"drop": "Daruma, Deep Sea Fishman Pirates"},
+				{"drop": "Dosun, Deep Sea Fishman Pirates"},
+				{"drop": "Hody Jones - Fish-Man District Spirit"},
+				{"drop": "Fukaboshi - Prince of the Ryugu Kingdom"},
+				{"drop": "Neptune - King of the Ryugu Kingdom"},
+				{"drop": "Jinbe - Warlord of the Sea"},
+				{"drop": "Capone Gang Bege"},
+				{"drop": "Gladius - Donquixote Pirates"},
+				{"drop": "Hajrudin - Pirate Mercenary"},
+				{"drop": "Gyaro"},
+				{"drop": "Birdie Kingdom Roc"}
+			]
+		},
 		{"name": "Moving Darkness - Blackbeard Pirates",
 			"boss": "BB Pirates",
 			"reddit": "[BB Pirates](/psy)",
