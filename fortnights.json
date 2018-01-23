@@ -1,4 +1,23 @@
 {"fortnights":[
+		{"name": "The Finest of Art: Giolla & Brook",
+			"boss": "Giolla & Brook",
+			"reddit": "[Giolla & Brook](/str)",
+			"form": "https://docs.google.com/forms/d/e/1FAIpQLSe2n3UqO6uVOWD9WO_x1UutJCqnhlFkPfWF6DS3bXe_krdtOQ/viewform?usp=sf_link",
+			"sheet": "https://docs.google.com/spreadsheets/d/1_c2LtgiQG1PJnhuubbDnBbnahajD1acLvi7Ein0_4JE/edit#gid=1840842823",
+			"template":[
+				{"drop": "Giolla, Art Human"},
+				{"drop": "Brook, Psychedelic Arts"},
+				{"drop": "Princess Shirahoshi - Ryugu Kingdom Royal Princess manual"},
+				{"drop": "Madam Sharley - Fortune Teller manual"},
+				{"drop": "Wet-Haired Caribou - Captain of the Caribou Pirates manual"},
+				{"drop": "Humandrill manual"},
+				{"drop": "Bartholomew Kuma - Warlord of the Sea manual"},
+				{"drop": "Gecko Moria - Warlord of the Sea manual"},
+				{"drop": "Ricky - Mystery Swordsman manual"},
+				{"drop": "Blue Gilly - Jiaokungdo Fighter manual"},
+				{"drop": "Tansui manual"}
+			]
+		},
 		{"name": "Revenge is Nigh! The New Fish-Man Pirates",
 			"boss": "New Fishman Pirates",
 			"reddit": "[New Fishman Pirates](/qck)",
