@@ -1,4 +1,24 @@
 {"fortnights":[
+		{"name": "Dead-On Prophecy?! Madam Sharley",
+			"boss": "Sharley",
+			"reddit": "Sharley (/qck)",
+			"form": "https://docs.google.com/forms/d/e/1FAIpQLSdlLGQzldzPSWoVXaW79wb9BlomG4LNW59oyTyn5ae0ZX-PGQ/viewform?usp=sf_link",
+			"sheet": "https://docs.google.com/spreadsheets/d/1_c2LtgiQG1PJnhuubbDnBbnahajD1acLvi7Ein0_4JE/edit#gid=1662718757",
+			"template":[
+				{"drop": "Madame Sharley, Mermaid Cafe Manager"},
+				{"drop": "Camie, Mermaid Cafe"},
+				{"drop": "Pappagu, \"Criminal Brand Company\" President and Super Famous Celebrity Fashion Desginer"},
+				{"drop": "Issho manual"},
+				{"drop": "Perona - Straw Hat Pirates Conspirator manual"},
+				{"drop": "Silvers Rayleigh - Straw Hat Pirates Conspirator manual"},
+				{"drop": "Kyros - Ex-Riku Royal Army Commander manual"},
+				{"drop": "Heavy Artillery Curiel manual"},
+				{"drop": "One-Hit Namule manual"},
+				{"drop": "Jinbe - Fish-Man Pirate Captain manual"},
+				{"drop": "Longarm Kingdom Tribesman manual"},
+				{"drop": "Macro manual"}
+			]
+		},
 		{"name": "The Finest of Art: Giolla & Brook",
 			"boss": "Giolla & Brook",
 			"reddit": "[Giolla](/str) **&** [Brook](/dex)",
