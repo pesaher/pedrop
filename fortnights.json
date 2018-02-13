@@ -1,4 +1,24 @@
 {"fortnights":[
+		{"name": "Brutal Fiend! Eustass Kid",
+			"boss": "Kid",
+			"reddit": "[Kid](/int)",
+			"form": "https://docs.google.com/forms/d/e/1FAIpQLSf1GfkhCJMfsed5bFA89FEKAxRtMLZ1msqLFnYr1RY8IFxRPg/viewform?usp=sf_link",
+			"sheet": "https://docs.google.com/spreadsheets/d/1_c2LtgiQG1PJnhuubbDnBbnahajD1acLvi7Ein0_4JE/edit#gid=220330652",
+			"template":[
+				{"drop": "Eustass Kid, Supernova Born from the South Blue"},
+				{"drop": "Heat"},
+				{"drop": "Wire"},
+				{"drop": "Captain Usopp - The Great Adventure of Usopp the Man, Ch. 2 / God Usopp manual"},
+				{"drop": "Heracles - Straw Hat Pirates Conspirator manual"},
+				{"drop": "Elizabeth - Straw Hat Pirates Conspirator manual"},
+				{"drop": "Mansherry - Tontatta Princes manual"},
+				{"drop": "Morning Star Rakuyo manual"},
+				{"drop": "Twin-Blade Thatch manual"},
+				{"drop": "Heracles-un - Bandit Forest Master Teacher manual"},
+				{"drop": "Trafalgar Law - Supernova manual"},
+				{"drop": "Haredas manual"}
+			]
+		},
 		{"name": "Dead-On Prophecy?! Madam Sharley",
 			"boss": "Sharley",
 			"reddit": "[Sharley](/dex)",
