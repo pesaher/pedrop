@@ -1,4 +1,23 @@
 {"fortnights":[
+		{"name": "Panic in the Castle! Fukaboshi and Neptune",
+			"boss": "Fukaboshi&Neptune",
+			"reddit": "[Fukaboshi](/qck) **&** [Neptune](/psy)",
+			"form": "https://docs.google.com/forms/d/e/1FAIpQLSdcjnlntBY60u9-udlDdbEQsaLqluiX-uhkXpgSjBRFOHZkZg/viewform?usp=sf_link",
+			"sheet": "https://docs.google.com/spreadsheets/d/1_c2LtgiQG1PJnhuubbDnBbnahajD1acLvi7Ein0_4JE/edit#gid=1912557188",
+			"template":[
+				{"drop": "Fukaboshi, Neptune Family Three Brothers - The First Son"},
+				{"drop": "Sea God Neptune"},
+				{"drop": "White Knight Cavendish manual"},
+				{"drop": "Duval - Straw Hat Pirates Contributor manual"},
+				{"drop": "Foxfire Kin'emon - Wano Country Samurai manual"},
+				{"drop": "Momonosuke - Wano Country Child manual"},
+				{"drop": "Franky - A Pirate Who Lives By His Code manual"},
+				{"drop": "Leo - Tontatta Corps Leader manual"},
+				{"drop": "Emporio Ivankov - Queen of New Kama Land manual"},
+				{"drop": "Eustass Kid - Supernova manual"},
+				{"drop": "Fossa the Blazing Katana manual"}
+			]
+		},
 		{"name": "Brutal Fiend! Eustass Kid",
 			"boss": "Kid Pirates",
 			"reddit": "[Kid Pirates](/int)",
