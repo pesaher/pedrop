@@ -1,4 +1,23 @@
 {"fortnights":[
+		{"name": "Sugar's Secret Toy Port",
+			"boss": "Sugar&Trebol",
+			"reddit": "[Sugar](/str) **&** [Trebol](/int)",
+			"form": "https://docs.google.com/forms/d/e/1FAIpQLSdyFAuelqgh9Ffcn0akSLG0G9gOlZtxWhYqCpUFR0DYYpOJ1w/viewform?usp=sf_link",
+			"sheet": "https://docs.google.com/spreadsheets/d/1_c2LtgiQG1PJnhuubbDnBbnahajD1acLvi7Ein0_4JE/edit#gid=737191335",
+			"template":[
+				{"drop": "Sugar, Hobby Hobby Fruit Ability User"},
+				{"drop": "Trebol, Sticky Sticky Fruit Ability User"},
+				{"drop": "Dogstorm: King of the Day Manual"},
+				{"drop": "Wanda: Kingsbird Manual"},
+				{"drop": "Treetop Pedro Manual"},
+				{"drop": "DeCalvan Brothers - Brothers' Bond Manual"},
+				{"drop": "Blenheim of the Cutlass Manual"},
+				{"drop": "Water Buffalo Atmos Manual"},
+				{"drop": "Usopp - A Pirate Who Lives by His Code Manual"},
+				{"drop": "Saint Shalria Manual"},
+				{"drop": "Tequila Wolf Guard Manual"}
+			]
+		},
 		{"name": "Panic in the Castle! Fukaboshi and Neptune",
 			"boss": "Fukaboshi&Neptune",
 			"reddit": "[Fukaboshi](/qck) **&** [Neptune](/psy)",
