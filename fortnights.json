@@ -1,4 +1,25 @@
 {"fortnights":[
+		{"name": "Gathering of the Strong! Battle Royale!!",
+			"boss": "BlueGilly",
+			"reddit": "[Blue Gilly](/dex)",
+			"form": "https://docs.google.com/forms/d/e/1FAIpQLSei15Ibp8BbTmp_LOKfafkvLNbTtELY-2LXSZSUMBjsp1KDqw/viewform?usp=sf_link",
+			"sheet": "https://docs.google.com/spreadsheets/d/1_c2LtgiQG1PJnhuubbDnBbnahajD1acLvi7Ein0_4JE/edit#gid=1556843441",
+			"template":[
+				{"drop": "Longleg Blue Gilly"},
+				{"drop": "Assassin Funk Brothers"},
+				{"drop": "Abdullah & Jeet, Vicious Criminals"},
+				{"drop": "Lucci: Beastman - World Government Monster Manual"},
+				{"drop": "Kuzan / Kuzan - Ex-Naval HQ Top Force Manual"},
+				{"drop": "Rob Lucci - Battles of the Great Era of Piracy: Dark Justice Manual"},
+				{"drop": "Bartholomew Kuma - Battles of the Great Era of Piracy: A Crew Annihilated Manual"},
+				{"drop": "Monkey D. Luffy - A Pirate Who Lives by His Code Manual"},
+				{"drop": "Shield-Lance Speed Jil Manual"},
+				{"drop": "Twin-Gauntlet Kingdew Manual"},
+				{"drop": "Roronoa Zoro - A Pirate Who Lives by His Code Manual"},
+				{"drop": "Demalo Black Manual"},
+				{"drop": "Silvers Rayleigh - Pirate King Crewman Manual"}
+			]
+		},
 		{"name": "Sugar's Secret Toy Port",
 			"boss": "Sugar&Trebol",
 			"reddit": "[Sugar](/str) **&** [Trebol](/int)",
@@ -14,6 +35,7 @@
 				{"drop": "Blenheim of the Cutlass Manual"},
 				{"drop": "Water Buffalo Atmos Manual"},
 				{"drop": "Usopp - A Pirate Who Lives by His Code Manual"},
+				{"drop": "Saint Shalria Manual"},
 				{"drop": "Saint Shalria Manual"},
 				{"drop": "Tequila Wolf Guard Manual"}
 			]
