@@ -1,4 +1,23 @@
 {"fortnights":[
+		{"name": "Foxfire Kin'emon",
+			"boss": "Kinemon",
+			"reddit": "[Kinemon](/int) **&** [Momonosuke](/qck)",
+			"form": "https://docs.google.com/forms/d/e/1FAIpQLScyAfOhtd56KCRtnLkbQGYn13whwZDNOnMEegwNL4eD1Hdvuw/viewform",
+			"sheet": "https://docs.google.com/spreadsheets/d/1_c2LtgiQG1PJnhuubbDnBbnahajD1acLvi7Ein0_4JE/edit#gid=1577586212",
+			"template":[
+				{"drop": "Samurai Foxfire Kinemon"},
+				{"drop": "Dragon Momonosuke"},
+				{"drop": "Sanji - Prince, Kingdom of Germa manual"},
+				{"drop": "Mr. 0 - Battles of the Great Era of Piracy: Utopia manual"},
+				{"drop": "Gecko Moria - Battles of the Great Era of Piracy: Strongest Underlings Manual"},
+				{"drop": "Swift-Saber Haruta Manual"},
+				{"drop": "Nico Robin - A Pirate Who Lives by Her Code Manual"},
+				{"drop": "One-Hit Namule Manual"},
+				{"drop": "Chopper - A Pirate Who Lives by His Code Manual"},
+				{"drop": "Sentomaru - Wall of Sabaody Manual"},
+				{"drop": "Saint Charlos Manual"}
+			]
+		},
 		{"name": "Gathering of the Strong! Battle Royale!!",
 			"boss": "BlueGilly",
 			"reddit": "[Blue Gilly](/dex)",
@@ -35,7 +54,6 @@
 				{"drop": "Blenheim of the Cutlass Manual"},
 				{"drop": "Water Buffalo Atmos Manual"},
 				{"drop": "Usopp - A Pirate Who Lives by His Code Manual"},
-				{"drop": "Saint Shalria Manual"},
 				{"drop": "Saint Shalria Manual"},
 				{"drop": "Tequila Wolf Guard Manual"}
 			]
