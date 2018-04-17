@@ -1,4 +1,23 @@
 {"fortnights":[
+		{"name": "Kingsbird Flying High",
+			"boss": "Wanda & Carrot",
+			"reddit": "[Wanda](/psy) **&** [Carrot](/dex)",
+			"form": "https://docs.google.com/forms/d/e/1FAIpQLSfnEN81szOi6kx-xumrskdaGNvTTNz0dUVGw5c45q1JjVRvhw/viewform?usp=sf_link",
+			"sheet": "https://docs.google.com/spreadsheets/d/1_c2LtgiQG1PJnhuubbDnBbnahajD1acLvi7Ein0_4JE/edit#gid=1562102431",
+			"template":[
+				{"drop": "Wanda, Mokomo Dukedom"},
+				{"drop": "Carrot, Mokomo Dukedom"},
+				{"drop": "Borsalino Manual"},
+				{"drop": "Full-Power Shishilian Manual"},
+				{"drop": "Evening Shower Kanjuro - Wano Kingdom Samurai Manual"},
+				{"drop": "Smoker - G-5 Vice Admiral Manual"},
+				{"drop": "Shark-Slicer Bastille - Naval HQ Vice Admiral Manual"},
+				{"drop": "Sanji - A Pirate Who Lives by His Code Manual"},
+				{"drop": "Nami - A Pirate Who Lives by Her Code Manual"},
+				{"drop": "Vander Decken IX Manual"},
+				{"drop": "Hammond Manual"}
+			]
+		},
 		{"name": "Foxfire Kin'emon",
 			"boss": "Kinemon",
 			"reddit": "[Kinemon](/int) **&** [Momonosuke](/qck)",
@@ -19,7 +38,7 @@
 			]
 		},
 		{"name": "Gathering of the Strong! Battle Royale!!",
-			"boss": "BlueGilly",
+			"boss": "Blue Gilly",
 			"reddit": "[Blue Gilly](/dex)",
 			"form": "https://docs.google.com/forms/d/e/1FAIpQLSei15Ibp8BbTmp_LOKfafkvLNbTtELY-2LXSZSUMBjsp1KDqw/viewform?usp=sf_link",
 			"sheet": "https://docs.google.com/spreadsheets/d/1_c2LtgiQG1PJnhuubbDnBbnahajD1acLvi7Ein0_4JE/edit#gid=1556843441",
@@ -40,7 +59,7 @@
 			]
 		},
 		{"name": "Sugar's Secret Toy Port",
-			"boss": "Sugar&Trebol",
+			"boss": "Sugar & Trebol",
 			"reddit": "[Sugar](/str) **&** [Trebol](/int)",
 			"form": "https://docs.google.com/forms/d/e/1FAIpQLSdyFAuelqgh9Ffcn0akSLG0G9gOlZtxWhYqCpUFR0DYYpOJ1w/viewform?usp=sf_link",
 			"sheet": "https://docs.google.com/spreadsheets/d/1_c2LtgiQG1PJnhuubbDnBbnahajD1acLvi7Ein0_4JE/edit#gid=737191335",
