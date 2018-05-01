@@ -1,4 +1,24 @@
 {"fortnights":[
+		{"name": "800-Year-Old Kingdom in Danger",
+			"boss": "Riku & Scarlet",
+			"reddit": "[Riku](/int) **&** [Scarlet](/psy)",
+			"form": "https://docs.google.com/forms/d/e/1FAIpQLSe1YNyR-eWD0wZZIjRTE831SiVdo9CM-9mDKYhajvc0KzITdQ/viewform?usp=sf_link",
+			"sheet": "https://docs.google.com/spreadsheets/d/1_c2LtgiQG1PJnhuubbDnBbnahajD1acLvi7Ein0_4JE/edit#gid=1164050993",
+			"template":[
+				{"drop": "King Riku"},
+				{"drop": "Tank Lepanto"},
+				{"drop": "Scarlet"},
+				{"drop": "Kami Eneru - Battles of the Great Era of Piracy: Endless vearth Manual"},
+				{"drop": "Carrot: Kingsbird Manual"},
+				{"drop": "Raizo of the Mist Manual"},
+				{"drop": "Sentomaru the Axe - Naval HQ Fleet Officer Manual"},
+				{"drop": "Maynard the Pursuer - Naval HQ Vice Admiral Manual"},
+				{"drop": "Brook - A Pirate Who Lives by His Code Manual"},
+				{"drop": "Maelstrom Spider Squard Manual"},
+				{"drop": "Hody Jones - Awakened Manual"},
+				{"drop": "Saint Roswald Manual"}
+			]
+		},
 		{"name": "Kingsbird Flying High",
 			"boss": "Wanda & Carrot",
 			"reddit": "[Wanda](/psy) **&** [Carrot](/dex)",
