@@ -1,4 +1,23 @@
 {"fortnights":[
+		{"name": "Caribou the Treasure Thief",
+			"boss": "Caribou",
+			"reddit": "[Caribou](/dex)",
+			"form": "https://docs.google.com/forms/d/e/1FAIpQLSeTu7NnQhsAnbKTJCx35umSYANQESaQhTDu04kxE6LPDS3XYg/viewform?usp=sf_link",
+			"sheet": "https://docs.google.com/spreadsheets/d/1_c2LtgiQG1PJnhuubbDnBbnahajD1acLvi7Ein0_4JE/edit#gid=553676644",
+			"template":[
+				{"drop": "Caribou, Next Generation Supernova"},
+				{"drop": "Coribou, Next Generation Supernova"},
+				{"drop": "Blackbeard - Blackbeard Pirate Captain Manual"},
+				{"drop": "Hannyabal - Ruler's Right-Hand Man (For Now) Manual"},
+				{"drop": "Jinbe - Warlord in Hell Manual"},
+				{"drop": "Demon Sheriff Lafitte Manual"},
+				{"drop": "Tashigi - G-5 Captain Manual"},
+				{"drop": "Ice Witch Whitey Bay Manual"},
+				{"drop": "Bohemian Knight Doma Manual"},
+				{"drop": "Caribou Manual"},
+				{"drop": "Coribou Manual"}
+			]
+		},
 		{"name": "800-Year-Old Kingdom in Danger",
 			"boss": "Riku & Scarlet",
 			"reddit": "[Riku](/int) **&** [Scarlet](/psy)",
