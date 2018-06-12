@@ -1,4 +1,20 @@
 {"fortnights":[
+		{"name": "Supernova! Hawkins and Urouge",
+			"boss": "Hawkins and Urouge",
+			"reddit": "[Hawkins](/qck) **&** [Urouge](/dex)",
+			"form": "https://docs.google.com/forms/d/e/1FAIpQLSfORgUD9fOpsM4Ndask-yO80Stov_UbE-JB-EGwRgLfCI9RQg/viewform?usp=sf_link",
+			"sheet": "https://docs.google.com/spreadsheets/d/1_c2LtgiQG1PJnhuubbDnBbnahajD1acLvi7Ein0_4JE/edit#gid=342628967",
+			"template":[
+				{"drop": "The Magician Basil Hawkins, Supernova"},
+				{"drop": "Mad Monk Urouge, Supernova"},
+				{"drop": "Magellan - Hell's Ruler Manual"},
+				{"drop": "Mr. 2 Bon Clay - A Friend in Hell Manual"},
+				{"drop": "Fisher Tiger - Sun Pirates Captain Manual"},
+				{"drop": "Champion Jesus Burgess Manual"},
+				{"drop": "Shiryu of the Rain Manual"},
+				{"drop": "Wadatsumi Manual"}
+			]
+		},
 		{"name": "Supernova! Apoo and Drake",
 			"boss": "Apoo & Drake",
 			"reddit": "[Apoo](/str) **&** [Drake](/psy)",
@@ -11,7 +27,8 @@
 				{"drop": "Emporio Ivankov - Revolutionary in Hell Manual"},
 				{"drop": "Eustass Kid - A Vow in the Great Age of Pirates: Pirate King Manual"},
 				{"drop": "Supersonic Van Ogre Manual"},
-				{"drop": "Death God Doc Q Manual"}
+				{"drop": "Death God Doc Q Manual"},
+				{"drop": "Ikaros Manual"}
 			]
 		},
 		{"name": "Caribou the Treasure Thief",
