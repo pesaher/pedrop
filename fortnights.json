@@ -1,21 +1,5 @@
 {"fortnights":[
-		{"fortnights":[
-		{"name": "Perona's Peculiar Living Situation",
-			"boss": "Mihawk & Perona",
-			"reddit": "[Mihawk](/psy) **&** [Perona](/str)",
-			"form": "https://docs.google.com/forms/d/e/1FAIpQLSdLHq_7yBq7UF9Ltuyvm8fFVyUPeHZrmUwI09aSGXGElr6zIQ/viewform?usp=sf_link",
-			"sheet": "https://docs.google.com/spreadsheets/d/1_c2LtgiQG1PJnhuubbDnBbnahajD1acLvi7Ein0_4JE/edit#gid=383362905",
-			"template":[
-				{"drop": "Mihawk, Shikkearu Kingdom Site"},
-				{"drop": "Perona, Shikkearu Kingdom Site"},
-				{"drop": "Sakazuki Manual"},
-				{"drop": "Boa Sandersonia - Straw Hat Luffy's Conspirator Manual"},
-				{"drop": "Boa Marigold - Straw Hat Luffy's Conspirator Manual"},
-				{"drop": "Petty Officer Coby - Hero of the Navy's Student Manual"},
-				{"drop": "Navy HQ Vice Admiral Momonga - Monster-Slaying master General Manual"},
-				{"drop": "Hyouzou Manual"}
-			]
-		},
+		
 		
 		{"name": "Supernova! Apoo and Drake",
 			"boss": "Apoo & Drake",
