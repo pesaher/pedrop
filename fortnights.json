@@ -1,6 +1,22 @@
 {"fortnights":[
 		
-		
+		{"name": "Branded in Shackles",
+			"boss": "Boasisters",
+			"reddit": "[Boa](/dex) [Sis](/qck)[ters](/psy)",
+			"form": "https://docs.google.com/forms/d/e/1FAIpQLSe3zVqcn5iIbRbtoMpJt-A--XNXmYi3UYMEUyPVvqt9DCTPHQ/viewform?usp=sf_link",
+			"sheet": "https://docs.google.com/spreadsheets/d/1_c2LtgiQG1PJnhuubbDnBbnahajD1acLvi7Ein0_4JE/edit#gid=1668612524",
+			"template":[
+				{"drop": "Boa Hancock, Fugitive Slave"},
+				{"drop": "Boa Sandersonia, Fugitive Slave"},
+				{"drop": "Boa Marigold, Fugitive Slave"},
+				{"drop": "Boa Hancock - Straw Hat Luffy's Conspirator Manual"},
+				{"drop": "Bepo - Straw Hat Luffy's Conspirator Manual"},
+				{"drop": "Jesus Burgess - Assassin in the Birdcage Manual"},
+				{"drop": "Garp the Fist - Navy HQ Vice Admiral Manuall"},
+				{"drop": "Navy HQ Vice Admiral Onigumo - Eight-Swords Style Fighter Manual"},
+				{"drop": "Dosun Manual"}
+			]
+		},
 		{"name": "Supernova! Apoo and Drake",
 			"boss": "Apoo & Drake",
 			"reddit": "[Apoo](/str) **&** [Drake](/psy)",
