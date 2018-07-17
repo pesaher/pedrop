@@ -1,5 +1,21 @@
 {"fortnights":[
 		
+		{"name": "Last Wish for Sanji",
+			"boss": "Reiju & Sanji",
+			"reddit": "[Reiju](/str) **&** [Sanji](/int)",
+			"form": "https://docs.google.com/forms/d/e/1FAIpQLSdVV41XZj0oGKq6OT2h_u-SbQTOOX7pNMOSvuxIW2lyIakphw/viewform?usp=sf_link",
+			"sheet": "https://docs.google.com/spreadsheets/d/1_c2LtgiQG1PJnhuubbDnBbnahajD1acLvi7Ein0_4JE/edit#gid=103009683",
+			"template":[
+				{"drop": "Vinsmoke Reiju - Germa Resurrection Plan"},
+				{"drop": "Vinsmoke Sanji - Germa Resurrection Plan"},
+				{"drop": "\"Warlord of the Sea\" Trafalgar Law - Joker-Tracking Heart / Trafalgar Law - People of the \"D\" Manual"},
+				{"drop": "Marguerite - Straw Hat Luffy's Conspirator Manual"},
+				{"drop": "Aokiji - \"Duel\" Victor Manual"},
+				{"drop": "Great Advisor Tsuru - Navy HQ Vice Admiral Manual"},
+				{"drop": "Tony Tony Chopper - Straw Hat Pirates: Born Again Manual"},
+				{"drop": "Daruma Manual"}
+			]
+		},
 		{"name": "Branded in Shackles",
 			"boss": "Boasisters",
 			"reddit": "[Boa](/dex) [Sist](/qck)[ers](/psy)",
@@ -47,8 +63,8 @@
 						{"drop": "Champion Jesus Burgess Manual"},
 						{"drop": "Shiryu of the Rain Manual"},
 						{"drop": "Wadatsumi Manual"}
-					]
-				},
+			]
+		},
 		{"name": "Supernova! Apoo and Drake",
 			"boss": "Apoo & Drake",
 			"reddit": "[Apoo](/str) **&** [Drake](/psy)",
