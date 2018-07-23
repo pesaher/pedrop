@@ -1,5 +1,20 @@
 {"fortnights":[
-		
+		{"name": "The Beast's return",
+			"boss": "Oars&Hogback",
+			"reddit": "[Oars](/qck) **&** [Hogback](/psy)",
+			"form": "https://docs.google.com/forms/d/e/1FAIpQLScuyOcM_0ybLiIB7atyz5VWBIAkN4oDwG7pLwBgINeAEB4peg/viewform?usp=sf_link",
+			"sheet": "https://docs.google.com/spreadsheets/d/1_c2LtgiQG1PJnhuubbDnBbnahajD1acLvi7Ein0_4JE/edit#gid=2065152647",
+			"template":[
+				{"drop": "Devil Oars, the Resurrected Legend"},
+				{"drop": "Doctor Hogback, Artist of Deadly Dolls"},
+				{"drop": "Lucy - Victor of the Corrida Coliseum Manual"},
+				{"drop": "Vinsmoke Yonji - Science Military Germa 66 Manual"},
+				{"drop": "Bartolomeo - Rebel in the Birdcage Manual"},
+				{"drop": "Akainu - Paramount War Hellfire Manual"},
+				{"drop": "Sanji - Straw Hat Pirates: Born again Manual"},
+				{"drop": "Zeo Manual"}
+			]
+		},
 		{"name": "Last Wish for Sanji",
 			"boss": "Reiju & Sanji",
 			"reddit": "[Reiju](/str) **&** [Sanji](/int)",
