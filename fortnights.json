@@ -1,4 +1,20 @@
 {"fortnights":[
+		{"name": "Volatile Meal! Boneny and Bege",
+			"boss": "Bonney&Bege",
+			"reddit": "[Bonney](/qck) **&** [Bege](/str)",
+			"form": "https://docs.google.com/forms/d/e/1FAIpQLScJW4o57dBCmlDm1ro_ytGbDm7LkbxfLYIiNj3B_fsjymDbaQ/viewform?usp=sf_link",
+			"sheet": "https://docs.google.com/spreadsheets/d/1_c2LtgiQG1PJnhuubbDnBbnahajD1acLvi7Ein0_4JE/edit#gid=1187198656",
+			"template":[
+				{"drop": "\"Big Eater\" Jewelry Bonney, Supernova"},
+				{"drop": "Capone \"Gang\" Bege, Supernova"},
+				{"drop": "Zoro the Pirate Hunter - Straw Hat Pirates: Born Again Manual"},
+				{"drop": "Vinsmoke Ichiji - Science Military Germa 66 Manual"},
+				{"drop": "Vinsmoke Reiju - Science Military Germa 66 Manual"},
+				{"drop": "Ben Beckman - Red-Hair Emperor's Right-Hand Man Manual"},
+				{"drop": "Nami - Straw Hat Pirates: Born Again Manual"},
+				{"drop": "Dragon - Punk Hazard Inhabitant Manual"}
+			]
+		},
 		{"name": "The Beast's return",
 			"boss": "Oars&Hogback",
 			"reddit": "[Oars](/qck) **&** [Hogback](/psy)",
