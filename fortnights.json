@@ -1,4 +1,20 @@
 {"fortnights":[
+		{"name": "I'm Now Your Ideal Type! I Think",
+			"boss": "VanderDecken",
+			"reddit": "[Vander Decken](/int)",
+			"form": "https://docs.google.com/forms/d/e/1FAIpQLSdYl0FSDJOCwjSt77ktTXyaWvrqNC30fMTIaoJrj2ooLmBM8g/viewform?usp=sf_link",
+			"sheet": "https://docs.google.com/spreadsheets/d/1_c2LtgiQG1PJnhuubbDnBbnahajD1acLvi7Ein0_4JE/edit#gid=19440567",
+			"template":[
+				{"drop": "Vander Decken IX - Deep-Sea Pirate"},
+				{"drop": "Wadatsumi - Crewmember of the Flying Pirates"},
+				{"drop": "Lucci: Beastman - World Government Monster"},
+				{"drop": "Diamante - Dressrosa King's Family"},
+				{"drop": "Cavendish - Rebel in the Birdcage"},
+				{"drop": "Trafalgar Law - A Vow in the Great Age of Pirates: Freedom"},
+				{"drop": "Franky - Straw Hat Pirates: Born Again"},
+				{"drop": "Hody Jones - Rampage"}
+			]
+		},
 		{"name": "Volatile Meal! Boneny and Bege",
 			"boss": "Bonney&Bege",
 			"reddit": "[Bonney](/qck) **&** [Bege](/str)",
