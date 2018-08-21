@@ -1,4 +1,20 @@
 {"fortnights":[
+		{"name": "Whitebeard Pirates Commanders! Marco & Vista",
+			"boss": "Marco&Vista",
+			"reddit": "[Marco](/dex) **&** [Visa](/str)",
+			"form": "https://docs.google.com/forms/d/e/1FAIpQLSdkfiXqpK0pxuG7KtUuwru4NLzu-S6LZehrpP4ZW3TPLFy3gA/viewform?usp=sf_link",
+			"sheet": "https://docs.google.com/spreadsheets/d/1_c2LtgiQG1PJnhuubbDnBbnahajD1acLvi7Ein0_4JE/edit#gid=726107280",
+			"template":[
+				{"drop": "Marco - Whitebeard's \"Son\""},
+				{"drop": "Vista - Whitebeard's \"Son\""},
+				{"drop": "Vinsmoke Judge - Science Military Germa 66"},
+				{"drop": "Vinsmoke Niji - Science Military Germa 66"},
+				{"drop": "Bellamy the Hyena - Assassin for the Current King of Dressrosa"},
+				{"drop": "Big Boss Jinbe - Neptune's Army Soldier: Ryugu Kingdom"},
+				{"drop": "Nico Robin - Straw Hat Pirates: Born Again"},
+				{"drop": "Rock & Scotch"}
+			]
+		},
 		{"name": "I'm Now Your Ideal Type! I Think",
 			"boss": "VanderDecken",
 			"reddit": "[Vander Decken](/int)",
