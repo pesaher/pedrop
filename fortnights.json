@@ -1,4 +1,20 @@
 {"fortnights":[
+		{"name": "Commotion at Makino's Tavern?!",
+			"boss": "Shanks&Makino",
+			"reddit": "[Shanks](/dex) **&** [Makino](/psy)",
+			"form": "https://docs.google.com/forms/d/e/1FAIpQLSeFmqXO-auNY8DYuBUE_PWwfK1kDF35lXCkiljJ5kn4FMTuUg/viewform?usp=sf_link",
+			"sheet": "https://docs.google.com/spreadsheets/d/1_c2LtgiQG1PJnhuubbDnBbnahajD1acLvi7Ein0_4JE/edit#gid=131966674",
+			"template":[
+				{"drop": "Red Haired Shanks, Strawhat Pirate"},
+				{"drop": "Makino, Shopkeeper of the Bar"},
+				{"drop": "Monkey D. Luffy - Straw Hat Pirates: Born Again/Monkey D. Luffy Gear Four: Bounceman"},
+				{"drop": "Rebecca - Future of the Former Dressrosa Royal Family"},
+				{"drop": "Kyros - Hero of the Former Dressrosa Family"},
+				{"drop": "Kizaru - Sojourner from the Sacred Land"},
+				{"drop": "Brook - Straw Hat Pirates: Born Again"},
+				{"drop": "Brownbeard - Punk Hazard Sentry \"Boss\""}
+			]
+		},
 		{"name": "Whitebeard Pirates Commanders! Marco & Vista",
 			"boss": "Marco&Vista",
 			"reddit": "[Marco](/dex) **&** [Visa](/str)",
